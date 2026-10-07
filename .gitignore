@@ -1,0 +1,10 @@
+# Source files that are not ours to redistribute; keep them locally to rebuild the data.
+*.epub
+research/en_1964_fadedpage.txt
+data/book.json
+
+samples/
+app/audio.tmp/
+.env
+.DS_Store
+__pycache__/

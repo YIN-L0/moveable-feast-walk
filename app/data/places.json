@@ -1,0 +1,3203 @@
+{
+ "book": "流动的盛宴（果麦版）.epub",
+ "englishSource": {
+  "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+  "url": "https://www.fadedpage.com/showbook.php?pid=20141111"
+ },
+ "people": {
+  "hemingway": {
+   "name": "海明威（书中的“我”）",
+   "bio": "写这些事时他二十出头，1921 年底带着新婚妻子从美国来到巴黎，先给加拿大《多伦多星报》当驻外记者，1924 年起辞职专心写小说，很穷。这本书是他三十多年后、去世前几年回忆写成的。妻子叫他“塔蒂”。"
+  },
+  "hadley": {
+   "name": "哈德莉",
+   "bio": "海明威的第一任妻子，比他大八岁。书里的“我妻子”就是她，她叫他“塔蒂”。两人 1921 年结婚，1927 年离婚；全书可以看作海明威晚年写给她的一封迟到的情书。"
+  },
+  "bumby": {
+   "name": "邦比",
+   "bio": "海明威和哈德莉的儿子约翰的小名，1923 年 10 月出生。"
+  },
+  "stein": {
+   "name": "格特鲁德·斯泰因",
+   "bio": "美国作家、现代艺术收藏家，1903 年起定居巴黎，比海明威大二十五岁。她在弗勒吕斯路 27 号的家里挂满毕加索、塞尚和马蒂斯，是当时巴黎最有名的沙龙。她是海明威早期的导师，后来两人疏远。"
+  },
+  "toklas": {
+   "name": "斯泰因的“同伴”",
+   "bio": "即爱丽丝·B. 托克拉斯，斯泰因的终身伴侣。海明威在书里始终不提她的名字，只说“她的同伴”或“她那位朋友”。"
+  },
+  "beach": {
+   "name": "西尔维娅·比奇",
+   "bio": "美国人，1919 年在巴黎开了英文书店兼租书馆“莎士比亚书店”。她借书给穷作家、替他们收信，1922 年还自己出钱出版了乔伊斯的《尤利西斯》。海明威说没有人比她对他更好。"
+  },
+  "joyce": {
+   "name": "詹姆斯·乔伊斯",
+   "bio": "爱尔兰作家，《尤利西斯》的作者，当时已是巴黎文坛最受敬重的人物，视力极差。妻子诺拉，儿子乔治，女儿露西娅。"
+  },
+  "pound": {
+   "name": "艾兹拉·庞德",
+   "bio": "美国诗人，现代主义诗歌的推手，为人极慷慨，到处替有才华的朋友找钱、找发表的地方。海明威教他打拳，他教海明威写作。妻子多罗茜是画家。"
+  },
+  "lewis": {
+   "name": "温德姆·刘易斯",
+   "bio": "英国画家、作家，庞德的朋友。海明威第一眼就讨厌他。"
+  },
+  "fitzgerald": {
+   "name": "斯科特·菲茨杰拉德",
+   "bio": "美国小说家，1925 年两人相识时他二十八岁，刚出版《了不起的盖茨比》，比海明威有名得多，也富有得多。他酗酒，对妻子泽尔达又爱又怕。"
+  },
+  "zelda": {
+   "name": "泽尔达",
+   "bio": "菲茨杰拉德的妻子，美国南方人，美丽、任性。海明威认为她嫉妒丈夫的写作，故意拉他去喝酒。1930 年起她多次精神崩溃。"
+  },
+  "chaplin": {
+   "name": "邓克·查普林",
+   "bio": "菲茨杰拉德在普林斯顿的同学，有名的棒球投手，初次见面那晚与他同来。"
+  },
+  "pascin": {
+   "name": "帕辛",
+   "bio": "朱尔斯·帕辛，保加利亚出生的画家，蒙帕纳斯最出名的浪荡子，以画女人体闻名，身边总有模特。1930 年在画室自杀。"
+  },
+  "chink": {
+   "name": "钦克",
+   "bio": "埃里克·多尔曼-史密斯，爱尔兰人，英国陆军职业军官。海明威 1918 年在意大利养伤时与他结识，是他和哈德莉最好的朋友，三人一起徒步翻过阿尔卑斯山的圣伯纳山口。"
+  },
+  "walsh": {
+   "name": "厄尼斯特·沃尔什",
+   "bio": "美国诗人，文学杂志《此季度》的编辑，患肺结核，自知不久于人世——所以那一章叫《被死神标记的人》。他私下向海明威许诺过杂志的一笔大奖。"
+  },
+  "shipman": {
+   "name": "埃文·希普曼",
+   "bio": "年轻的美国诗人，穷，懂赛马，对名利毫不在意，是海明威很喜欢的朋友。"
+  },
+  "lavigne": {
+   "name": "拉维涅先生",
+   "bio": "“图卢兹黑人饭店”的老板，海明威一家是他的常客。"
+  },
+  "obrien": {
+   "name": "奥布里恩",
+   "bio": "爱德华·奥布里恩，美国编辑，每年编选《年度最佳短篇小说》。他破例收入了海明威当时尚未发表过的赛马小说。"
+  },
+  "georges": {
+   "name": "乔治",
+   "bio": "里兹酒吧的酒保领班；菲茨杰拉德常来的年代，他还是这里的小听差。"
+  },
+  "ney": {
+   "name": "内伊元帅",
+   "bio": "拿破仑手下的元帅，号称“勇者中的勇者”，从莫斯科撤退时率领后卫。1815 年在今天铜像所在的地方附近被枪决。"
+  },
+  "mike": {
+   "name": "迈克·沃德",
+   "bio": "海明威的朋友，在银行的旅行柜台工作，是他把海明威带进了自行车赛的世界。"
+  }
+ },
+ "places": [
+  {
+   "id": "cafe-des-amateurs",
+   "nameZh": "“爱好者咖啡馆”",
+   "canonicalName": "Café des Amateurs",
+   "historicalName": "Café des Amateurs",
+   "modernName": "Café Delmas",
+   "historicalAddress": "Place de la Contrescarpe (corner of rue Mouffetard), Paris 5e",
+   "modernAddress": "2 place de la Contrescarpe, 75005 Paris",
+   "lat": 48.84466,
+   "lng": 2.349434,
+   "radiusM": 30,
+   "status": "renamed",
+   "confidence": "MEDIUM",
+   "note": "书的第一个地点。原文只说它在康特雷斯卡普广场、穆菲塔路口；具体是今天的 Café Delmas（2 号）这一点只有二手资料支持，所以标为 MEDIUM。广场本身是确定的。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.1: 'The Café des Amateurs was the cesspool of the rue Mouffetard, that wonderful narrow crowded market street which led into the Place Contrescarpe.'"
+    },
+    {
+     "source": "Adequatica — Hemingway in Paris (annotated location list, secondary)",
+     "url": "https://adequatica.substack.com/p/hemingway-in-paris",
+     "claim": "Identifies the café with 2 place de la Contrescarpe, today Café Delmas."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "'Le Delmas, 2 Place de la Contrescarpe' → 48.84466, 2.349434"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "cafe-des-amateurs-1",
+     "title": "坏天气与爱好者咖啡馆",
+     "chapter": 1,
+     "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+     "chineseMatch": {
+      "chapter": 1,
+      "paragraphIds": [
+       "1-1",
+       "1-2"
+      ]
+     },
+     "paragraphs": [
+      "随后坏天气便来到了：它们常在秋尽时的某日降临。我们晚上得关窗挡雨，冷风摧落康特雷斯卡普广场的树叶。落叶浸泡在雨水中，雨乘风势吹打终点站的环城绿色大巴。“爱好者咖啡馆”中人满为患，室内的暖气与烟雾令窗上蒙了层晕。这家咖啡馆阴郁悲戚，经营不善，街区酒鬼汇聚其中。我避而远之，好躲开肮脏体味与醉汉酸臭。常去“爱好者咖啡馆”的男男女女只要还有钱买酒，便沉醉终日，多半喝整升或半升买进的劣葡萄酒。许多名字古怪的开胃菜招贴待售，但没几个人买得起，除非偶尔作为豪饮的垫底。常来喝酒的女人被叫做poivrottes，意思是女酒鬼。",
+      "“爱好者咖啡馆”是穆菲塔路的“污水池”。这条漂亮拥挤的窄市场街直通康特雷斯卡普广场。老公寓里每层楼梯侧，都有间蹲式厕所；蹲坑两侧各一个印有齿道的鞋形水泥垫，免得房客打滑。厕所的秽物冲下污水池，由装大罐的马车乘夜抽走。夏天窗户全开时，我们听得见抽水声，臭味浓烈。装罐马车都漆成褐色与橙色，月光下在勒姆瓦纳主教街上辚辚而行时，看去像幅布拉克的画。然而“爱好者咖啡馆”无人打扫：墙上所贴的惩禁公共场所酗酒守则的告示泛黄肮脏，无人理睬；顾客不断，味道难闻。"
+     ],
+     "chars": 481,
+     "audio": "audio/cafe-des-amateurs-1.m4a",
+     "englishChapterTitle": "A Good Café on the Place St.-Michel",
+     "englishAnchorStart": "Then there was the bad weather. It would come in one day when the",
+     "englishAnchorEnd": "The Café des Amateurs was the cesspool of the rue",
+     "englishParagraphs": [
+      1,
+      2
+     ],
+     "zhEnRatio": 0.248,
+     "needsReview": false,
+     "chapterLabel": "第1章",
+     "context": "这是全书的开头，大约是 1922 年的深秋。海明威二十三岁，和新婚妻子哈德莉刚搬到拐角的勒姆瓦纳主教街，这一带当时是巴黎最穷的街区之一。他从自家楼下这家他并不喜欢的咖啡馆写起。",
+     "people": [
+      "hemingway",
+      "hadley"
+     ],
+     "intro": "出自《流动的盛宴》第1章，《圣米歇尔广场上的一处好咖啡馆》。这是全书的开头，大约是 1922 年的深秋。海明威二十三岁，和新婚妻子哈德莉刚搬到拐角的勒姆瓦纳主教街，这一带当时是巴黎最穷的街区之一。他从自家楼下这家他并不喜欢的咖啡馆写起。",
+     "introAudio": "audio/cafe-des-amateurs-1-intro.m4a",
+     "durationSec": 103,
+     "introDurationSec": 24
+    }
+   ],
+   "chapter": 1,
+   "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+   "englishQuoteOrAnchor": "Then there was the bad weather. It would come in one day when the",
+   "autoplay": true
+  },
+  {
+   "id": "74-cardinal-lemoine",
+   "nameZh": "勒姆瓦纳主教街74号",
+   "canonicalName": "74 rue du Cardinal Lemoine",
+   "historicalName": "Hemingway's first Paris flat (above a bal musette)",
+   "modernName": "74 rue du Cardinal Lemoine (plaque)",
+   "historicalAddress": "74 rue du Cardinal Lemoine, Paris 5e",
+   "modernAddress": "74 rue du Cardinal Lemoine, 75005 Paris",
+   "lat": 48.844846,
+   "lng": 2.349596,
+   "radiusM": 25,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "海明威与哈德莉在巴黎的第一个家，三楼两室公寓，楼下当年是舞厅（bal musette）。楼仍在，门口有纪念牌。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.4: 'the address I had given her, 74 rue Cardinal Lemoine, could not have been a poorer one'; ch.9: 'It's under 74 rue Cardinal Lemoine … I lived on the third floor.'"
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "74, rue du Cardinal-Lemoine (5e): first Paris home of Hemingway and Hadley, a modest two-room flat."
+    },
+    {
+     "source": "Wikipédia (fr) — Rue du Cardinal-Lemoine",
+     "url": "https://fr.wikipedia.org/wiki/Rue_du_Cardinal-Lemoine",
+     "claim": "Au no 74, Hemingway et Hadley ont vécu dans un petit appartement du 3e étage."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "'Appartement de Ernest Hemingway, 74 Rue du Cardinal Lemoine' → 48.844846, 2.349596"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "74-cardinal-lemoine-1",
+     "title": "春天的早晨：牧羊人与山羊",
+     "chapter": 6,
+     "chapterTitle": "虚假的春天",
+     "chineseMatch": {
+      "chapter": 6,
+      "paragraphIds": [
+       "6-1",
+       "6-2",
+       "6-3"
+      ]
+     },
+     "paragraphs": [
+      "春天到来时，即便是虚假的春天，也令人万事无忧，只剩下琢磨去哪儿度春最开心了。唯一能败坏一天兴致的，也就是来个客人，只要你能闭门谢客，那便百无禁忌了。除了少数与春天一样明媚的客人，大多数来客都会阻碍你取乐。",
+      "春季早晨，我妻子犹在酣睡时，我便会早早开工。窗口大开，雨后的鹅卵石街道也渐干了。阳光晒干面窗那些屋子的墙面。商店的百叶窗犹未打开。牧羊人吹着风笛沿街行来，我们家楼上的一个妇人带着个大罐出至人行道上。牧羊人选了只胸乳鼓胀的黑母羊，挤了羊奶进罐。他的牧羊犬在旁将其他羊赶上人行道。羊群扭颈四顾，活像观光客。牧羊人从妇人手里取了钱，谢过了她，继续吹着风笛走街串巷，牧羊犬驱羊而行，羊角颠动。我继续写作。那妇人端了羊奶上楼。她穿了双毡底鞋，我只听见她在我家门外停步喘气声，再便是上楼进房后的关门声。我们楼里，只有她一个人买羊奶。",
+      "我决定下楼去买一张赛马早报。再穷的街区都有起码一份赛马早报，只是这种日子，你得早点去买。我在康特雷斯卡普广场角上的笛卡尔街转角买到了一份。羊群正走过笛卡尔街呢，我呼吸了几口新鲜空气，快步回家好完成工作。我刚被诱惑了，真想留在外头，跟着羊群走过清晨的街道。但我重新开工前，先看了报纸。昂甘正在举行赛马，在那个小巧漂亮、外行云集的销金的赛马场。"
+     ],
+     "chars": 532,
+     "audio": "audio/74-cardinal-lemoine-1.m4a",
+     "englishChapterTitle": "A False Spring",
+     "englishAnchorStart": "When spring came, even the false spring, there were no problems except where to",
+     "englishAnchorEnd": "I decided to go down and buy a morning racing",
+     "englishParagraphs": [
+      1,
+      3
+     ],
+     "zhEnRatio": 0.27,
+     "needsReview": false,
+     "chapterLabel": "第6章",
+     "context": "一个春天的早晨，海明威在这栋楼三楼的公寓里趁妻子还没醒就开始写作，窗外是街上的声音。那几年他和哈德莉迷上了赌赛马，手头稍有一点钱就去赛马场。",
+     "people": [
+      "hemingway",
+      "hadley"
+     ],
+     "intro": "出自《流动的盛宴》第6章，《虚假的春天》。一个春天的早晨，海明威在这栋楼三楼的公寓里趁妻子还没醒就开始写作，窗外是街上的声音。那几年他和哈德莉迷上了赌赛马，手头稍有一点钱就去赛马场。",
+     "introAudio": "audio/74-cardinal-lemoine-1-intro.m4a",
+     "durationSec": 116,
+     "introDurationSec": 19
+    },
+    {
+     "id": "74-cardinal-lemoine-2",
+     "title": "两室公寓：我们总是走运",
+     "chapter": 4,
+     "chapterTitle": "莎士比亚书店",
+     "chineseMatch": {
+      "chapter": 4,
+      "paragraphIds": [
+       "4-20",
+       "4-21",
+       "4-22",
+       "4-23",
+       "4-24",
+       "4-25",
+       "4-26",
+       "4-27",
+       "4-28",
+       "4-29",
+       "4-30",
+       "4-31",
+       "4-32",
+       "4-33",
+       "4-34",
+       "4-35",
+       "4-36",
+       "4-37",
+       "4-38",
+       "4-39",
+       "4-40",
+       "4-41",
+       "4-42"
+      ]
+     },
+     "paragraphs": [
+      "我在勒姆瓦纳主教街的家是一间两室公寓，没热水，没洗手间，只有一个防腐便桶，对蹲惯了密歇根户外厕所的我而言，也没什么不便。周遭风景不错，地板上有张软垫弹簧的好床，墙上有我们喜欢的画儿，所以此处也算惬意快活。我带书回家，告诉妻子：我找到了莎士比亚书店这等好地方。",
+      "“但是塔蒂，你今天下午就得过去把钱付了。”她说。",
+      "“我当然会去。”我说，“我们一起去。然后我们就顺着河岸散步。”",
+      "“我们一直走到塞纳路吧，看所有那些画廊和商店橱窗。”",
+      "“当然，我们可以走到任何地方，在哪家没熟人的新咖啡馆，停下喝一杯。”",
+      "“我们可以喝两杯。”",
+      "“然后我们可以找哪里吃饭。”",
+      "“不，别忘了我们还得付书店钱呢。”",
+      "“我们回家吃饭，我们吃一顿好的，从窗外那个合作商店买点博纳红酒喝——你看窗外就看得见酒价了。回头我们就读书，然后上床，做爱。”",
+      "“而且我们只爱彼此，永不变心。”",
+      "“永不变心。”",
+      "“这样过个下午和晚上多美好啊。现在我们得吃午饭啦。”",
+      "“我饿得很。”我说，“我在咖啡馆靠奶油咖啡支撑一上午呢。”",
+      "“写得怎样，塔蒂？”",
+      "“我想还好。但愿吧。午饭吃什么？”",
+      "“小萝卜，香喷喷的牛肝配土豆泥，莴苣沙拉，苹果派。”",
+      "“我们可以读到世上所有的书，我们出去旅行时，还可以带上读。”",
+      "“我们这样没坑到谁吗？”",
+      "“当然没问题！”",
+      "“她也有亨利·詹姆斯的书吗？”",
+      "“当然有！”",
+      "“哎呀！”她说，“你找到这么个地方，我们真走运！”",
+      "“我们总是走运！”我说着，跟个傻瓜似的，都没敲敲木头避忌讳。那公寓里，到处有可敲的木头。"
+     ],
+     "chars": 619,
+     "audio": "audio/74-cardinal-lemoine-2.m4a",
+     "englishChapterTitle": "Shakespeare and Company",
+     "englishAnchorStart": "Home in the rue Cardinal Lemoine was a two-room flat that had no hot",
+     "englishAnchorEnd": "\"We're always lucky,\" I said and like a fool I",
+     "englishParagraphs": [
+      20,
+      42
+     ],
+     "zhEnRatio": 0.328,
+     "needsReview": false,
+     "chapterLabel": "第4章",
+     "context": "海明威刚从莎士比亚书店回来。店主西尔维娅·比奇不认识他，却让他先把书借走、有钱再付。他上楼把这个好消息告诉妻子哈德莉，她叫他“塔蒂”。结尾那句“没敲敲木头”是老年海明威的叹息：这段婚姻几年后就结束了。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "beach"
+     ],
+     "intro": "出自《流动的盛宴》第4章，《莎士比亚书店》。海明威刚从莎士比亚书店回来。店主西尔维娅·比奇不认识他，却让他先把书借走、有钱再付。他上楼把这个好消息告诉妻子哈德莉，她叫他“塔蒂”。结尾那句“没敲敲木头”是老年海明威的叹息：这段婚姻几年后就结束了。",
+     "introAudio": "audio/74-cardinal-lemoine-2-intro.m4a",
+     "durationSec": 130,
+     "introDurationSec": 24
+    },
+    {
+     "id": "74-cardinal-lemoine-3",
+     "title": "斯泰因小姐来访",
+     "chapter": 2,
+     "chapterTitle": "斯泰因小姐垂教",
+     "chineseMatch": {
+      "chapter": 2,
+      "paragraphIds": [
+       "2-9",
+       "2-10",
+       "2-11",
+       "2-12",
+       "2-13",
+       "2-14",
+       "2-15",
+       "2-16",
+       "2-17"
+      ]
+     },
+     "paragraphs": [
+      "她俩到得我们公寓时，看来似乎更中意我们了，但也许只因为地方太小，我们坐得更近些。斯泰因小姐坐在搁地上的床边上，要看我写的小说；她说她喜欢所有篇目，除了那篇《在密歇根》。",
+      "“这篇挺好，”她说，“没问题。但这篇不够雅致。意思是，就像一个画家画了幅画，等有展览时却不好意思挂出来，也没人会买这幅画，因为人家也不好意思挂出来。”",
+      "“可是，如果这故事并不下流，只用了人们日常生活中会用的字眼呢？如果只有使这些字眼才能让故事显得真实，你必须用呢？你就得用这些字眼啊。”",
+      "“可是你根本没明白关键。”她说，“你不能写不雅的字句。那样做没意义。那样做错误又愚蠢。”",
+      "她告诉我，她自己希望在《大西洋月刊》上发表作品。她也能发表。她告诉我，我的作品还没好到够上《大西洋月刊》或者《星期六晚间邮报》，但我也许算个特立独行的新派作家。然而第一要务乃是记住，不要写不雅的小说。我没再针对这一点争执或试图解释。那是我自己的事，何况，光是聆听也够有趣了。那天下午她还告诉我，怎么买画作。",
+      "“你可以买衣服或者买画，”她说，“就这么简单。除非是富豪，谁都没法两样兼得。别在意你的衣服，别在意流行，买舒适耐穿的衣服，你就有钱买画了。”",
+      "“但哪怕我再也不买新衣服，”我说，“我还是没钱买我想要的毕加索啊。”",
+      "“不。他的画不是你能承担的。你得买些同龄人的画，跟你同在军队服役的那些人。你会慢慢结识他们，在这一带你就能遇得上。任何时代都会有新的、肯用心的好画家。而且买衣服多的不是你，是你太太。女人的衣服才贵呢。”",
+      "我发现我妻子尽力不去注视斯泰因小姐身上那些奇装异服。她还真做到了。她们离开时还是挺喜欢我们，我想，我们又被邀请去弗勒吕斯路27号了。"
+     ],
+     "chars": 694,
+     "audio": "audio/74-cardinal-lemoine-3.m4a",
+     "englishChapterTitle": "Miss Stein Instructs",
+     "englishAnchorStart": "When they came to our flat they seemed to like us even more; but",
+     "englishAnchorEnd": "I saw my wife trying not to look at the",
+     "englishParagraphs": [
+      9,
+      17
+     ],
+     "zhEnRatio": 0.289,
+     "needsReview": false,
+     "chapterLabel": "第2章",
+     "context": "1922 年，名作家格特鲁德·斯泰因带着同伴回访海明威夫妇的小公寓。她坐在搁在地上的床边读这个年轻人的小说，对其中一篇有性描写的《在密歇根》下了判词，又教他有钱该买画而不是买衣服。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "stein",
+      "toklas"
+     ],
+     "intro": "出自《流动的盛宴》第2章，《斯泰因小姐垂教》。1922 年，名作家格特鲁德·斯泰因带着同伴回访海明威夫妇的小公寓。她坐在搁在地上的床边读这个年轻人的小说，对其中一篇有性描写的《在密歇根》下了判词，又教他有钱该买画而不是买衣服。",
+     "introAudio": "audio/74-cardinal-lemoine-3-intro.m4a",
+     "durationSec": 146,
+     "introDurationSec": 23
+    }
+   ],
+   "chapter": 6,
+   "chapterTitle": "虚假的春天",
+   "englishQuoteOrAnchor": "When spring came, even the false spring, there were no problems except where to",
+   "autoplay": true
+  },
+  {
+   "id": "39-rue-descartes",
+   "nameZh": "魏尔伦过世的酒店（笛卡尔路39号）",
+   "canonicalName": "39 rue Descartes",
+   "historicalName": "Hotel where Verlaine died — Hemingway's top-floor workroom",
+   "modernName": "39 rue Descartes (plaques; restaurant on ground floor)",
+   "historicalAddress": "39 rue Descartes, Paris 5e",
+   "modernAddress": "39 rue Descartes, 75005 Paris",
+   "lat": 48.845482,
+   "lng": 2.349216,
+   "radiusM": 25,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "原文没有写门牌，只说“魏尔伦过世的那栋酒店”。魏尔伦 1896 年死于笛卡尔路 39 号，这一点有独立记载，所以地址可以可靠推定。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.1: 'the hotel where Verlaine had died where I had a room on the top floor where I worked.'"
+    },
+    {
+     "source": "Wikipédia (fr) — Rue Descartes (Paris)",
+     "url": "https://fr.wikipedia.org/wiki/Rue_Descartes_(Paris)",
+     "claim": "No 39 : immeuble où Paul Verlaine est mort dans un atelier mansardé du dernier étage le 8 janvier 1896. Ernest Hemingway occupa cet atelier en 1922."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "39 Rue Descartes → 48.845482, 2.349216"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "39-rue-descartes-1",
+     "title": "顶楼的写作间",
+     "chapter": 1,
+     "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+     "chineseMatch": {
+      "chapter": 1,
+      "paragraphIds": [
+       "1-3",
+       "1-4"
+      ]
+     },
+     "paragraphs": [
+      "随着冬天第一阵冷雨，城市所有的感伤忽然浮现。外出步行时看不见白色高屋的房顶，只余下湿暗的街道，紧闭的铺子，卖草药的商贩，文具店与报亭，二流的产婆，还有那栋我在顶层租房工作过的酒店：魏尔伦就在那儿过世。",
+      "酒店到顶楼是六层或是八层楼梯，里头很冷，我知道得花多少钱才能买一束树枝，买三把铁丝捆就、劈成半支铅笔长的短松木条用以引火，买一捆劈成节的半干硬木，好生一堆火，让房间温暖。我走到街对面，在雨中看屋顶，看是否有烟囱在冒烟，烟是什么样。没有烟。我想，大概烟囱冷了，冒不出烟了，屋里倒可能烟雾弥漫，这样浪费燃料，浪费钱。我继续冒雨走，路过了亨利四世中学、古老的圣艾蒂安—迪蒙教堂和寒风横扫的先贤祠广场，为了避雨，我靠路右边走，最后从圣米歇尔大道背风一侧走出来，一直向下，经过克吕尼和圣日耳曼大道，到了圣米歇尔广场我熟悉的一家咖啡馆。"
+     ],
+     "chars": 362,
+     "audio": "audio/39-rue-descartes-1.m4a",
+     "englishChapterTitle": "A Good Café on the Place St.-Michel",
+     "englishAnchorStart": "All of the sadness of the city came suddenly with the first cold rains",
+     "englishAnchorEnd": "It was either six or eight flights up to the",
+     "englishParagraphs": [
+      3,
+      4
+     ],
+     "zhEnRatio": 0.247,
+     "needsReview": false,
+     "chapterLabel": "第1章",
+     "context": "为了有个安静地方写作，海明威在这家旧旅馆的顶楼另租了一间小屋。法国诗人魏尔伦 1896 年就死在这栋楼里。这一天又冷又下雨，他站在街对面盘算生一炉火要花多少钱，最后决定走去圣米歇尔广场的咖啡馆写。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第1章，《圣米歇尔广场上的一处好咖啡馆》。为了有个安静地方写作，海明威在这家旧旅馆的顶楼另租了一间小屋。法国诗人魏尔伦 1896 年就死在这栋楼里。这一天又冷又下雨，他站在街对面盘算生一炉火要花多少钱，最后决定走去圣米歇尔广场的咖啡馆写。",
+     "introAudio": "audio/39-rue-descartes-1-intro.m4a",
+     "durationSec": 77,
+     "introDurationSec": 26
+    }
+   ],
+   "chapter": 1,
+   "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+   "englishQuoteOrAnchor": "All of the sadness of the city came suddenly with the first cold rains",
+   "autoplay": true
+  },
+  {
+   "id": "place-saint-michel",
+   "nameZh": "圣米歇尔广场上的好咖啡馆",
+   "canonicalName": "A good café on the Place St.-Michel",
+   "historicalName": "Unnamed café, place Saint-Michel",
+   "modernName": "Place Saint-Michel",
+   "historicalAddress": "Place Saint-Michel, Paris 5e/6e",
+   "modernAddress": "Place Saint-Michel, 75006 Paris",
+   "lat": 48.853321,
+   "lng": 2.34376,
+   "radiusM": 55,
+   "status": "unidentified-café",
+   "confidence": "MEDIUM",
+   "note": "广场是确定的，但海明威从未写明是哪一家咖啡馆，后人的各种说法都没有证据。所以坐标放在广场中心，而不是任何一家今天的店。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.1 title and text: '…and finally came out on the lee side of the Boulevard St.-Michel and worked on down it past the Cluny and the Boulevard St.-Germain until I came to a good café that I knew on the Place St.-Michel.'"
+    },
+    {
+     "source": "Adequatica — Hemingway in Paris (annotated location list, secondary)",
+     "url": "https://adequatica.substack.com/p/hemingway-in-paris",
+     "claim": "Notes that Hemingway never disclosed which café it was."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Place Saint-Michel → 48.853321, 2.34376"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "place-saint-michel-1",
+     "title": "写作、少女与牡蛎",
+     "chapter": 1,
+     "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+     "chineseMatch": {
+      "chapter": 1,
+      "paragraphIds": [
+       "1-5",
+       "1-6",
+       "1-7",
+       "1-8",
+       "1-9",
+       "1-10",
+       "1-11",
+       "1-12",
+       "1-13"
+      ]
+     },
+     "paragraphs": [
+      "这家咖啡馆惬意、温暖、干净又亲切。我脱了旧雨衣挂上衣帽架晾干，将褪色的旧呢帽挂上板凳上方的搭钩，点了一杯牛奶咖啡。侍者端了咖啡来，我从外套口袋里掏出笔记本和铅笔，开始写作。我写的故事在密歇根，因为巴黎寒风呼啸，于是故事里也是这般天色。我在童年、少年与青年时期，已经见识了秋末光景；我在巴黎能写得比在密歇根更好。这大概就是所谓生活在别处吧，我想：人也许与其他会生长的事物一样，都得将自己移植到别处。可是小说里的少年们都在喝酒，我不禁渴起来，便要了杯圣詹姆斯酒。这酒在天冷时品来绝妙，我继续写作，状态挺好，感受着上好的马提尼克朗姆酒温暖我的全身与灵魂。",
+      "一个少女进咖啡馆来，独坐在靠窗的桌旁。她很美，脸色鲜润，如果硬币是用光滑的肌肉与雨般清新的皮肤铸造，她的脸看去就像枚新铸的硬币，头发黑得像乌鸦之翼，修剪鲜明，成对角线横过脸庞。",
+      "我看着她，她撩到了我，让我兴奋起来。我希望可以将她写进故事或其他哪里，但她在可以看到街与店门的位置坐下，我便知道她在等人。于是我继续写作。",
+      "故事自行恣肆推进，我简直都跟不上。我又点了杯圣詹姆斯酒。我每次抬头时，或用铅笔刀削铅笔、任碎屑落进我饮料下的碟子时，都注视那个少女。",
+      "我想：我看到你了，美人，你现在属于我了，无论你在等谁，无论我是否还能再见到你。你属于我了，整个巴黎都属于我，而我属于这笔记本和这支铅笔。",
+      "然后我重返写作，沉迷其中。此时是我在写故事，而非故事擅自发展，我不再抬头看，不知时光流逝，不想自己身在何处，也不再点圣詹姆斯酒。我不觉间厌倦了圣詹姆斯酒。故事写完了，我很疲倦。我读了故事最后一节，抬头寻找那少女：她已走了。我希望，她是跟一个好男人走的，我想。但我还是郁郁不欢。",
+      "我合上笔记本，放进我的内袋，叫侍者来，点了十二个葡萄牙牡蛎和半瓶店里的干白葡萄酒。每次写完一个故事，我总觉得空空如也，悲欣交加，好像刚做完爱。我确认这是个好故事，虽然我得在第二天重读之后，才能确定有多好。",
+      "我吃的牡蛎带有浓烈的海洋腥味与微微的金属味，后者被冷白葡萄酒洗去后，只余下海洋的味道与多汁的嫩肉。我就着酒的清爽口感，吸掉了每个牡蛎壳里冷冷的汁液，于是我的空虚感消失了，我高兴起来，开始制定计划。",
+      "如今坏天气来了，我们可以暂离巴黎，找个冬雨化雪的地方：雪花透过松树降下，覆路盖坡；我们晚上踱回家时，能听到踏雪之声。雷阿望山下有一处宅子，膳宿颇佳，我们可以双双带着书去，晚间睡在温暖的床上，开窗看明亮的星空。我们可以去那里。坐三等车厢去并不贵。那宅子的膳宿，比我们在巴黎只略多一点点。"
+     ],
+     "chars": 1045,
+     "audio": "audio/place-saint-michel-1.m4a",
+     "englishChapterTitle": "A Good Café on the Place St.-Michel",
+     "englishAnchorStart": "It was a pleasant café, warm and clean and friendly, and I hung up",
+     "englishAnchorEnd": "Now that the bad weather had come, we could leave",
+     "englishParagraphs": [
+      5,
+      13
+     ],
+     "zhEnRatio": 0.275,
+     "needsReview": false,
+     "chapterLabel": "第1章",
+     "context": "紧接上一段：海明威冒雨从笛卡尔路走到这里，坐进一家暖和的咖啡馆写小说，故事的背景是他少年时的美国密歇根。写完后，他想到可以带妻子哈德莉离开阴冷的巴黎，到山里去过冬。",
+     "people": [
+      "hemingway",
+      "hadley"
+     ],
+     "intro": "出自《流动的盛宴》第1章，《圣米歇尔广场上的一处好咖啡馆》。紧接上一段：海明威冒雨从笛卡尔路走到这里，坐进一家暖和的咖啡馆写小说，故事的背景是他少年时的美国密歇根。写完后，他想到可以带妻子哈德莉离开阴冷的巴黎，到山里去过冬。",
+     "introAudio": "audio/place-saint-michel-1-intro.m4a",
+     "durationSec": 224,
+     "introDurationSec": 22
+    },
+    {
+     "id": "place-saint-michel-2",
+     "title": "带着邦比去咖啡馆（附录篇）",
+     "chapter": 24,
+     "chapterTitle": "对邦比先生的教育",
+     "chineseMatch": {
+      "chapter": 24,
+      "paragraphIds": [
+       "24-1"
+      ]
+     },
+     "paragraphs": [
+      "我第一个儿子邦比小的时候，我们还住在锯木厂楼上，我俩一起在咖啡馆度过了许多时光。我们冬天去弗拉尔贝格的施伦斯时，他总随我们同行；但哈德莉与我夏季去西班牙时，他便与清洁妇和她丈夫共度——这二位被他称呼做玛丽·科克特和图东。或者在格布林大道10号公寓里，或是去布列塔尼的米尔一处房子里过暑假。图东·罗尔巴克先生在法国军队里当过上士，指望退伍时有点小补贴，他们靠这点补贴和玛丽的工资过日子，等着退伍回布列塔尼的米尔。图东对邦比的孩童生涯影响颇大，当丁香园里人多到无法工作时，或我寻思他需要换个环境时，便会将邦比放在婴儿车里，推着走到圣米歇尔广场的咖啡馆中：他可以在那里琢磨人群或者巴黎的喧嚣生活，我则靠一杯奶油咖啡支撑写作。每个人都有自己的一处私人咖啡馆：他们不邀请其他人来，独自在那里工作、读书或接收邮件。他们有其他的咖啡馆来会见情人，几乎每个人都有所谓“另一个咖啡馆”，一个中立的场所，他们可以邀请你在那里见他们的情人，还有规律、简单、便宜的饭食，大家都可以简单来一顿。这可不像你在书里读到早年巴黎那些传奇地方，比如蒙帕纳斯那边的穹顶咖啡馆、圆亭咖啡馆或者菁英咖啡馆，也不同于稍后的穹顶餐厅或者“澳洲犬”。"
+     ],
+     "chars": 502,
+     "audio": "audio/place-saint-michel-2.m4a",
+     "englishChapterTitle": null,
+     "englishAnchorStart": null,
+     "needsReview": true,
+     "chapterLabel": "附录",
+     "context": "这一段出自附录，是海明威生前没有收入正文的篇章。时间晚了几年：儿子邦比已经出生，一家人搬到了蒙帕纳斯的锯木厂楼上。平时照看邦比的是帮佣玛丽和她当过兵的丈夫“图东”。",
+     "people": [
+      "hemingway",
+      "bumby",
+      "hadley"
+     ],
+     "intro": "出自《流动的盛宴》附录，《对邦比先生的教育》。这一段出自附录，是海明威生前没有收入正文的篇章。时间晚了几年：儿子邦比已经出生，一家人搬到了蒙帕纳斯的锯木厂楼上。平时照看邦比的是帮佣玛丽和她当过兵的丈夫“图东”。",
+     "introAudio": "audio/place-saint-michel-2-intro.m4a",
+     "durationSec": 96,
+     "introDurationSec": 21
+    }
+   ],
+   "chapter": 1,
+   "chapterTitle": "圣米歇尔广场上的一处好咖啡馆",
+   "englishQuoteOrAnchor": "It was a pleasant café, warm and clean and friendly, and I hung up",
+   "autoplay": true
+  },
+  {
+   "id": "27-rue-de-fleurus",
+   "nameZh": "弗勒吕斯路27号（斯泰因的工作室）",
+   "canonicalName": "27 rue de Fleurus",
+   "historicalName": "Gertrude Stein & Alice B. Toklas's studio",
+   "modernName": "27 rue de Fleurus (plaque)",
+   "historicalAddress": "27 rue de Fleurus, Paris 6e",
+   "modernAddress": "27 rue de Fleurus, 75006 Paris",
+   "lat": 48.846933,
+   "lng": 2.329329,
+   "radiusM": 30,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "格特鲁德·斯泰因的沙龙。私人住宅，只能在门外看纪念牌；工作室在院子里。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.3: 'It was easy to get into the habit of stopping in at 27 rue de Fleurus late in the afternoon for the warmth and the great pictures and the conversation.'"
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "27, rue de Fleurus (6e): Gertrude Stein's home, where she received writers and artists."
+    },
+    {
+     "source": "Wikipedia — 27 rue de Fleurus",
+     "url": "https://en.wikipedia.org/wiki/27_rue_de_Fleurus",
+     "claim": "27 rue de Fleurus was the home of Gertrude Stein and Alice B. Toklas."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "27 Rue de Fleurus → 48.846933, 2.329329"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "27-rue-de-fleurus-1",
+     "title": "工作室、画与李子酒",
+     "chapter": 2,
+     "chapterTitle": "斯泰因小姐垂教",
+     "chineseMatch": {
+      "chapter": 2,
+      "paragraphIds": [
+       "2-6",
+       "2-7",
+       "2-8"
+      ]
+     },
+     "paragraphs": [
+      "我和我妻子此前已经拜访过斯泰因小姐，她跟她那位同住的朋友待我们亲切又热情。我们喜欢她那间壁悬名画的宽敞工作室，若非有个大壁炉，这里真像是顶尖博物馆里一个最好的展厅：温暖，舒适，主人还端出精美小食与茶水招待，另有紫李子、黄李子与野莓制作的天然蒸馏利口酒。这些醇香透明的酒装在雕花玻璃瓶里，倒在小玻璃杯中，尝着都有其果子本味：李子味或覆盆子味，最后化成你舌尖的一团火焰，令你温暖，令你放松。",
+      "斯泰因小姐甚是魁梧，但不算高，壮硕得像个农妇。她有漂亮的双眸，有张强硬的德国犹太裔脸型，又有些像佛留利人。她的衣服、神情多变的面孔、活泼可爱又生机勃勃带有异国风情的浓密头发以及她大概从学生时期保留至今的发型，都让我想起意大利北部的农妇。她总是口若悬河，总是以熟人或地名开头。",
+      "她的同伴声音悦耳，身材娇小，肌肤黝黑，头发修剪得像布泰·德·蒙维尔插图中的圣女贞德，长了个鹰钩鼻。我们初次拜访时，她正做着针线活。她继续绣着花，一边为我们奉上点心与甜酒，还与我妻子聊天。她跟一个人说着话，听着另一边说话，还时常打断另一边的对谈。之后她解释说，她总与来宾的太太们说话。我和我妻子都觉得，她对来宾的太太们不过客气下罢了。但我们还是挺喜欢斯泰因小姐和她朋友，虽则这位朋友不太好接近。她家的油画、糕点及白兰地都是十足精品。她俩看来也挺喜欢我们，待我们时仿佛我们是讲礼貌有前途的好孩子。我觉得她俩原谅了我们的相爱与婚姻——时间会解决这一点的——此后，我妻子邀她们喝茶时，她们也应约而来。"
+     ],
+     "chars": 626,
+     "audio": "audio/27-rue-de-fleurus-1.m4a",
+     "englishChapterTitle": "Miss Stein Instructs",
+     "englishAnchorStart": "My wife and I had called on Miss Stein, and she and the friend",
+     "englishAnchorEnd": "Her companion had a very pleasant voice, was small, very",
+     "englishParagraphs": [
+      6,
+      8
+     ],
+     "zhEnRatio": 0.304,
+     "needsReview": false,
+     "chapterLabel": "第2章",
+     "context": "1922 年，海明威夫妇第一次登门拜访格特鲁德·斯泰因。她的工作室里挂满了当时还没人看得懂的现代画，像一座私人美术馆。和她同住的那位“同伴”，书里始终没有写出名字。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "stein",
+      "toklas"
+     ],
+     "intro": "出自《流动的盛宴》第2章，《斯泰因小姐垂教》。1922 年，海明威夫妇第一次登门拜访格特鲁德·斯泰因。她的工作室里挂满了当时还没人看得懂的现代画，像一座私人美术馆。和她同住的那位“同伴”，书里始终没有写出名字。",
+     "introAudio": "audio/27-rue-de-fleurus-1-intro.m4a",
+     "durationSec": 129,
+     "introDurationSec": 21
+    },
+    {
+     "id": "27-rue-de-fleurus-2",
+     "title": "“你们是迷惘的一代”",
+     "chapter": 3,
+     "chapterTitle": "“迷惘的一代”",
+     "chineseMatch": {
+      "chapter": 3,
+      "paragraphIds": [
+       "3-22",
+       "3-23",
+       "3-24",
+       "3-25",
+       "3-26",
+       "3-27",
+       "3-28",
+       "3-29",
+       "3-30",
+       "3-31",
+       "3-32",
+       "3-33"
+      ]
+     },
+     "paragraphs": [
+      "斯泰因小姐提到“迷惘的一代”那时节，我们刚从加拿大回来，还住在香圣母院路，那时我们交情尚好。她那辆福特T型老车点火装置有些问题，车厂修理的小伙子在一战最后那年还在军队服役，不知是技术不熟还是没优先修理斯泰因小姐的车，总之用斯泰因小姐的话说，他不够“认真”，经斯泰因小姐抗议后，车厂老板狠训了小伙子一顿，临了老板说：“你们都是迷惘的一代！”",
+      "“你们就是这样，你们全都是这样。”斯泰因小姐说，“你们所有在战争里服役的年轻人都是。你们是迷惘的一代。”",
+      "“果真？”我说。",
+      "“你们就是，”她坚持，“你们对万事都无敬意，你们醉生梦死……”",
+      "“那年轻修理工喝醉了么？”我问。",
+      "“当然没有。”",
+      "“你见过我喝醉么？”",
+      "“没有。但你的朋友们都常喝醉。”",
+      "“我喝醉过，”我说，“但我可没醉醺醺来过这儿。”",
+      "“当然没有。我没那么说。”",
+      "“那小伙子的老板倒可能在上午十一点就喝醉了，”我说，“所以他会说这种可笑之辞。”",
+      "“别跟我争辩，海明威，”斯泰因小姐说，“根本没用。你们就是迷惘的一代，就跟那车厂老板说的一模一样。”"
+     ],
+     "chars": 436,
+     "audio": "audio/27-rue-de-fleurus-2.m4a",
+     "englishChapterTitle": "“Une Génération Perdue”",
+     "englishAnchorStart": "It was when we had come back from Canada and were living in the",
+     "englishAnchorEnd": "\"Don't argue with me, Hemingway,\" Miss Stein said. \"It does",
+     "englishParagraphs": [
+      22,
+      33
+     ],
+     "zhEnRatio": 0.319,
+     "needsReview": false,
+     "chapterLabel": "第3章",
+     "context": "“迷惘的一代”这个说法就出自这里。斯泰因的旧福特车送去修理，车行里一个打过一战的年轻修理工活儿干得不好，被老板训斥；她把老板那句话转送给了海明威和所有参过战的年轻人。海明威后来把它印在第一部长篇《太阳照常升起》的扉页上，心里却并不服气。",
+     "people": [
+      "hemingway",
+      "stein"
+     ],
+     "intro": "出自《流动的盛宴》第3章，《迷惘的一代》。“迷惘的一代”这个说法就出自这里。斯泰因的旧福特车送去修理，车行里一个打过一战的年轻修理工活儿干得不好，被老板训斥；她把老板那句话转送给了海明威和所有参过战的年轻人。海明威后来把它印在第一部长篇《太阳照常升起》的扉页上，心里却并不服气。",
+     "introAudio": "audio/27-rue-de-fleurus-2-intro.m4a",
+     "durationSec": 88,
+     "introDurationSec": 27
+    },
+    {
+     "id": "27-rue-de-fleurus-3",
+     "title": "奇怪的断交",
+     "chapter": 13,
+     "chapterTitle": "奇怪的断交",
+     "chineseMatch": {
+      "chapter": 13,
+      "paragraphIds": [
+       "13-3",
+       "13-4",
+       "13-5",
+       "13-6",
+       "13-7",
+       "13-8",
+       "13-9",
+       "13-10",
+       "13-11"
+      ]
+     },
+     "paragraphs": [
+      "那是个明媚春日，我从天文台广场走来，穿过小小的卢森堡公园。七叶树花朵盛开，孩子在鹅卵石小径上玩耍，保姆们坐在长凳上看。我看见了树上的鹁鸪，还听见了其他的鸟鸣——虽然我没看见。",
+      "我还没按门铃，女仆就为我开了门，请我进去等候。斯泰因小姐随时会下来。此时是上午，但女仆却给我倒了杯白兰地，将杯子放在我手里后，欢快地使个眼色。无色的酒精在舌上尝来味道奇妙，酒还没咽下，我听见有人在跟斯泰因小姐说话：我从未听过一个人用如此口气对另一个人说话，绝对没有，哪里都没有。",
+      "接着便是斯泰因小姐的声音，她在恳求：“别，姑娘，别这样，别这样，请别这样。我愿意做任何事，姑娘，但请不要这样做。请不要，请不要，姑娘。”",
+      "我咽下那口酒，将杯子放在桌子上，向门口走去。女仆对我摇手指，低声说：“别走，她马上就下来了。”",
+      "“我得走。”我说着，不再多听，径直离去。但对话还在继续，唯一的办法是赶紧离开。她的话听着就让人感觉不好了，对面的话就更难听了。",
+      "我在庭院里对女仆说：“请告诉她，我到了庭院里就遇到了你，我一个朋友生病了所以我等不及。请代我对她说旅途愉快。我会写信的。”",
+      "“一言为定，先生。您等不及了，真可惜。”",
+      "“是啊，”我说，“太可惜了。”",
+      "对我而言，这就是我们友谊的结束，真是足够蠢的。虽然我还是为她做点小事，必要时露个脸，把她想见的人请来，等新的阶段开始，她有了新朋友，我又与大多数跟她交友的男人一起等候决裂。看着一文不值的新画送进她房间，与以往的名画并排悬挂，令人不禁叹息，但对我而言已经无所谓了。她与我们所有这些喜欢过她的人争吵，除了胡安·格里斯：她不能跟他吵，因为他死了。我估计他也未必在乎，因为他也过了斤斤计较的年纪，在他画里就体现这一点。"
+     ],
+     "chars": 705,
+     "audio": "audio/27-rue-de-fleurus-3.m4a",
+     "englishChapterTitle": "A Strange Enough Ending",
+     "englishAnchorStart": "It was a lovely spring day and I walked down from the Place de",
+     "englishAnchorEnd": "That was the way it finished for me, stupidly enough,",
+     "englishParagraphs": [
+      3,
+      11
+     ],
+     "zhEnRatio": 0.324,
+     "needsReview": false,
+     "chapterLabel": "第13章",
+     "context": "几年之后。海明威与斯泰因已经熟到可以随时登门。这个明媚的春日，他照常登门，在客厅等候时，无意间听见楼上传来一段他不该听到的对话。两人的友谊实际上就此结束。",
+     "people": [
+      "hemingway",
+      "stein",
+      "toklas"
+     ],
+     "intro": "出自《流动的盛宴》第13章，《奇怪的断交》。几年之后。海明威与斯泰因已经熟到可以随时登门。这个明媚的春日，他照常登门，在客厅等候时，无意间听见楼上传来一段他不该听到的对话。两人的友谊实际上就此结束。",
+     "introAudio": "audio/27-rue-de-fleurus-3-intro.m4a",
+     "durationSec": 147,
+     "introDurationSec": 21
+    }
+   ],
+   "chapter": 2,
+   "chapterTitle": "斯泰因小姐垂教",
+   "englishQuoteOrAnchor": "My wife and I had called on Miss Stein, and she and the friend",
+   "autoplay": true
+  },
+  {
+   "id": "musee-du-luxembourg",
+   "nameZh": "卢森堡博物馆",
+   "canonicalName": "Musée du Luxembourg",
+   "historicalName": "Musée du Luxembourg (museum of living artists until 1937)",
+   "modernName": "Musée du Luxembourg",
+   "historicalAddress": "19 rue de Vaugirard, Paris 6e",
+   "modernAddress": "19 rue de Vaugirard, 75006 Paris",
+   "lat": 48.848571,
+   "lng": 2.334011,
+   "radiusM": 60,
+   "status": "extant-collection-moved",
+   "confidence": "HIGH",
+   "note": "建筑还在原处，但海明威看的塞尚、马奈、莫奈早已不在这里：这批印象派藏品后来去了网球场美术馆，如今在奥赛博物馆。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.2: '…walk through the gardens and then go to the Musée du Luxembourg where the great paintings were that have now mostly been transferred to the Louvre and the Jeu de Paume.' Ch.8: 'There you could always go into the Luxembourg museum and all the paintings were sharpened and clearer and more beautiful if you were belly-empty, hollow-hungry.'"
+    },
+    {
+     "source": "Wikipedia — Musée du Luxembourg",
+     "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Luxembourg",
+     "claim": "The museum was devoted to living artists from 1818 to 1937."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Musée du Luxembourg, rue de Vaugirard → 48.848571, 2.334011"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "musee-du-luxembourg-1",
+     "title": "向塞尚学习",
+     "chapter": 2,
+     "chapterTitle": "斯泰因小姐垂教",
+     "chineseMatch": {
+      "chapter": 2,
+      "paragraphIds": [
+       "2-5"
+      ]
+     },
+     "paragraphs": [
+      "如果午后我另挑了条路线，去卢森堡公园，我可以步行穿过公园，直到卢森堡博物馆，只是那里的名画，如今大多转到卢浮宫和国立热德鲍姆美术馆去了。我几乎每天都去那里，看塞尚的画，看马奈的画，看莫奈的画，看其他我在芝加哥艺术学院最初认识的印象派画家们的作品。我从塞尚的画中学到了：用简单真实的句子，还远不够令我的小说达到我希望达到的深度与广度。我从塞尚的画中获益良多，只是没能耐解释给人听。何况，这也是个秘密。如果卢森堡博物馆中灭灯了，我就穿过公园往回走，到弗勒吕斯路27号，格特鲁德·斯泰因小姐家里去。"
+     ],
+     "chars": 246,
+     "audio": "audio/musee-du-luxembourg-1.m4a",
+     "englishChapterTitle": "Miss Stein Instructs",
+     "englishAnchorStart": "If I walked down by different streets to the Jardin du Luxembourg in the",
+     "englishAnchorEnd": "If I walked down by different streets to the Jardin",
+     "englishParagraphs": [
+      5,
+      5
+     ],
+     "zhEnRatio": 0.272,
+     "needsReview": false,
+     "chapterLabel": "第2章",
+     "context": "那时这座博物馆专门陈列在世和近代画家的作品。海明威写完一天的东西，常绕到这里来看塞尚，想从画里学到怎么把小说写出他想要的那种分量。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第2章，《斯泰因小姐垂教》。那时这座博物馆专门陈列在世和近代画家的作品。海明威写完一天的东西，常绕到这里来看塞尚，想从画里学到怎么把小说写出他想要的那种分量。",
+     "introAudio": "audio/musee-du-luxembourg-1-intro.m4a",
+     "durationSec": 49,
+     "introDurationSec": 19
+    },
+    {
+     "id": "musee-du-luxembourg-2",
+     "title": "饿着肚子看画",
+     "chapter": 8,
+     "chapterTitle": "饥饿是有益的锻炼",
+     "chineseMatch": {
+      "chapter": 8,
+      "paragraphIds": [
+       "8-1"
+      ]
+     },
+     "paragraphs": [
+      "在巴黎，你若吃不够便会极饿：糕饼店橱窗里琳琅满目，人行道上食客都露天吃喝，你鼻嗅目睹避不开食物。你放弃了记者的工作，又不写美国人肯买的文章，只好跟家里解释说你在外头跟人吃午饭，最好的去处也就是卢森堡公园：从天文台广场一路到沃日拉尔街，一路上闻不到也看不见食物。你总可以去卢森堡博物馆，你空着肚子、饥肠辘辘时，那里的画看去更明晰清爽。我在饿肚子时，更能领会塞尚了，更懂得他如何描绘风景了。我先前还好奇，他画画时是不是也饿着肚子，不过想来大概他痴迷于画画，忘了吃饭吧。人在失眠或饥饿时，常有类似想入非非，却也发人深思。后来我想，大概塞尚感受到的是另一种饥饿吧。"
+     ],
+     "chars": 278,
+     "audio": "audio/musee-du-luxembourg-2.m4a",
+     "englishChapterTitle": "Hunger Was Good Discipline",
+     "englishAnchorStart": "You got very hungry when you did not eat enough in Paris because all",
+     "englishAnchorEnd": "You got very hungry when you did not eat enough",
+     "englishParagraphs": [
+      1,
+      1
+     ],
+     "zhEnRatio": 0.26,
+     "needsReview": false,
+     "chapterLabel": "第8章",
+     "context": "1924 年海明威辞掉记者工作专心写小说，稿子却卖不出去，家里很穷。他常对妻子说有人请他吃午饭，其实是省下一顿，空着肚子在卢森堡公园一带走上两小时。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第8章，《饥饿是有益的锻炼》。1924 年海明威辞掉记者工作专心写小说，稿子却卖不出去，家里很穷。他常对妻子说有人请他吃午饭，其实是省下一顿，空着肚子在卢森堡公园一带走上两小时。",
+     "introAudio": "audio/musee-du-luxembourg-2-intro.m4a",
+     "durationSec": 60,
+     "introDurationSec": 20
+    }
+   ],
+   "chapter": 2,
+   "chapterTitle": "斯泰因小姐垂教",
+   "englishQuoteOrAnchor": "If I walked down by different streets to the Jardin du Luxembourg in the",
+   "autoplay": true
+  },
+  {
+   "id": "place-saint-sulpice",
+   "nameZh": "圣休皮斯广场",
+   "canonicalName": "Place Saint-Sulpice",
+   "historicalName": "Place Saint-Sulpice",
+   "modernName": "Place Saint-Sulpice",
+   "historicalAddress": "Place Saint-Sulpice, Paris 6e",
+   "modernAddress": "Place Saint-Sulpice, 75006 Paris",
+   "lat": 48.85087,
+   "lng": 2.333278,
+   "radiusM": 50,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "从卢森堡公园出来、沿费露街走到这里：一条闻不到饭香的“饥饿路线”。喷泉与狮子都还在。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.8: 'you could walk down the narrow rue Férou to the Place St.-Sulpice and there were still no restaurants, only the quiet square with its benches and trees. There was a fountain with lions…'"
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Fontaine des Quatre Évêques, Place Saint-Sulpice → 48.85087, 2.333278"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "place-saint-sulpice-1",
+     "title": "没有餐馆的广场",
+     "chapter": 8,
+     "chapterTitle": "饥饿是有益的锻炼",
+     "chineseMatch": {
+      "chapter": 8,
+      "paragraphIds": [
+       "8-2",
+       "8-3",
+       "8-4"
+      ]
+     },
+     "paragraphs": [
+      "你从卢森堡出来后，可以向下走到窄窄的费露街，到圣休皮斯广场，那里依然没饭店，只有静静的广场、长椅与树木。有一处带狮子像的喷泉，鸽子在人行道上踱步，有几只停在主教们的雕塑上。有一座教堂，广场北边有卖宗教用品与法衣的店铺。",
+      "自此广场向河边去，你无法避开卖蔬果、酒、糕饼与点心的店铺了。但若小心择路，还是可以绕过灰白石筑的教堂，一路少经过几个食品店。到奥戴翁路，一转向右，便是西尔维娅·比奇的书店了。奥戴翁路没什么吃喝之处，得走到广场上才有三家。",
+      "走到奥戴翁路12号时，饥饿已经抑住，全副感官却灵敏起来。墙上的照片看去不一样了，书也仿佛变陌生了。"
+     ],
+     "chars": 268,
+     "audio": "audio/place-saint-sulpice-1.m4a",
+     "englishChapterTitle": "Hunger Was Good Discipline",
+     "englishAnchorStart": "After you came out of the Luxembourg you could walk down the narrow rue",
+     "englishAnchorEnd": "By the time you reached 12 rue de l'Odéon your",
+     "englishParagraphs": [
+      2,
+      4
+     ],
+     "zhEnRatio": 0.236,
+     "needsReview": false,
+     "chapterLabel": "第8章",
+     "context": "接着上一段的“饥饿路线”：饿着肚子从卢森堡公园出来，要去莎士比亚书店，得挑一条闻不到饭菜香、看不见糕饼橱窗的路走。这条路经过的就是这个广场。",
+     "people": [
+      "hemingway",
+      "beach"
+     ],
+     "intro": "出自《流动的盛宴》第8章，《饥饿是有益的锻炼》。接着上一段的“饥饿路线”：饿着肚子从卢森堡公园出来，要去莎士比亚书店，得挑一条闻不到饭菜香、看不见糕饼橱窗的路走。这条路经过的就是这个广场。",
+     "introAudio": "audio/place-saint-sulpice-1-intro.m4a",
+     "durationSec": 58,
+     "introDurationSec": 18
+    }
+   ],
+   "chapter": 8,
+   "chapterTitle": "饥饿是有益的锻炼",
+   "englishQuoteOrAnchor": "After you came out of the Luxembourg you could walk down the narrow rue",
+   "autoplay": true
+  },
+  {
+   "id": "shakespeare-and-company",
+   "nameZh": "莎士比亚书店原址（奥戴翁路12号）",
+   "canonicalName": "Shakespeare and Company (Sylvia Beach)",
+   "historicalName": "Shakespeare and Company, 12 rue de l'Odéon (1921–1941)",
+   "modernName": "12 rue de l'Odéon (plaque; not a bookshop)",
+   "historicalAddress": "12 rue de l'Odéon, Paris 6e",
+   "modernAddress": "12 rue de l'Odéon, 75006 Paris",
+   "lat": 48.850921,
+   "lng": 2.338609,
+   "radiusM": 30,
+   "status": "closed-1941",
+   "confidence": "HIGH",
+   "note": "注意：这里才是书里的莎士比亚书店。西尔维娅·比奇的店 1941 年关门；今天圣母院对面、柴火路 37 号那家同名书店是 1951 年另开的，海明威写的不是那里。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.4: 'the library and bookstore of Sylvia Beach at 12 rue de l'Odéon'; ch.8: 'By the time you reached 12 rue de l'Odéon…'"
+    },
+    {
+     "source": "Wikipedia — Shakespeare and Company (1919–1941)",
+     "url": "https://en.wikipedia.org/wiki/Shakespeare_and_Company_(1919%E2%80%931941)",
+     "claim": "In 1921 Beach moved it to 12 rue de l'Odéon, where it remained until 1941; the existing shop was founded in 1951 and is a different establishment."
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "Notes the bookshop was originally at 12 rue de l'Odéon."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "12 Rue de l'Odéon → 48.850921, 2.338609"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "shakespeare-and-company-1",
+     "title": "第一次走进书店",
+     "chapter": 4,
+     "chapterTitle": "莎士比亚书店",
+     "chineseMatch": {
+      "chapter": 4,
+      "paragraphIds": [
+       "4-1",
+       "4-2",
+       "4-3",
+       "4-4",
+       "4-5",
+       "4-6",
+       "4-7",
+       "4-8",
+       "4-9",
+       "4-10",
+       "4-11",
+       "4-12",
+       "4-13",
+       "4-14",
+       "4-15",
+       "4-16",
+       "4-17",
+       "4-18",
+       "4-19"
+      ]
+     },
+     "paragraphs": [
+      "那些日子里没钱买书。我从莎士比亚书店的图书馆——那是西尔维娅·比奇开在奥戴翁路12号的书店——里头借书。寒风凛冽的街上，这地方温暖惬意，冬天生起大火炉，有桌子，有一架架书，新书列在橱窗里，墙上张挂作者的照片：在世的，逝世的，都有。照片看去都像快照，甚至已经不在的作者，看去都像仍在世似的。西尔维娅的活泼脸孔棱角鲜明如雕塑，褐色的眼睛灵动如小动物，快乐得像个小姑娘。她波浪形的褐色头发从她好看的额头向后梳，在浓密处齐耳剪平，正好到她穿的棕色天鹅绒外套领子。她有双美腿，为人和善、愉悦又有好奇心，爱开玩笑还好打听。我认识的人里，没人比她对我更好了。",
+      "我第一次去书店时很羞怯，因为我带的钱不够租书。她告诉我，我可以等有钱了再交押金，还给了我一张借书卡，告诉我想拿多少书都随意。",
+      "她没理由信赖我。她并不认得我，且我给她的地址——勒姆瓦纳主教街74号——属于再穷不过的街区了。然而她愉快、热情又好客，她背后齐墙高、伸到大楼内院里屋的书架上满架的书，就是图书馆的宝藏。",
+      "我从屠格涅夫借起，拿了两卷《猎人笔记》，以及一本D. H. 劳伦斯的早期作品，我记得是《儿子与情人》吧，西尔维娅告诉我，如果想，可以多拿些书。我选了康斯坦特·加内特翻译的《战争与和平》和陀思妥耶夫斯基的《赌徒与其他》。",
+      "“你借这么多的话，近期就来不了啦。”西尔维娅说。",
+      "“我会回来付钱的。”我说，“我公寓里还有点钱。”",
+      "“我不是这意思。”她说，“钱等你方便了随时付。”",
+      "“乔伊斯何时来？”我问。",
+      "“如果他来，经常是黄昏时分吧。”她说，“你见过他么？”",
+      "“我们见过他跟他全家人在米肖酒店吃饭。”我说，“但盯着人家吃饭不礼貌，米肖又挺贵。”",
+      "“你在家吃饭么？”",
+      "“现在差不多是。”我说，“我们有个好厨子。”",
+      "“你住的那区没餐厅，对吧？”",
+      "“没有啊。你怎么知道？”",
+      "“拉尔博在那里住过。”她答道，“除了没餐厅这事，他还挺喜欢那里的。”",
+      "“价廉物美的馆子，最近的得在先贤祠了。”",
+      "“那一带我不熟。我们也在家开伙。你和你太太一定得来。”",
+      "“得先看我是不是付得起书钱吧。”我说，“但真的谢谢你。”",
+      "“读书别太赶啦。”她说。"
+     ],
+     "chars": 866,
+     "audio": "audio/shakespeare-and-company-1.m4a",
+     "englishChapterTitle": "Shakespeare and Company",
+     "englishAnchorStart": "In those days there was no money to buy books. I borrowed books from",
+     "englishAnchorEnd": "\"Don't read too fast,\" she said.",
+     "englishParagraphs": [
+      1,
+      19
+     ],
+     "zhEnRatio": 0.307,
+     "needsReview": false,
+     "chapterLabel": "第4章",
+     "context": "海明威刚到巴黎不久，买不起书。这家英文书店兼租书馆是美国人西尔维娅·比奇开的，他第一次进门时身上的钱连押金都不够。两人谈到的乔伊斯，那时正在等这家书店替他出版《尤利西斯》。",
+     "people": [
+      "hemingway",
+      "beach",
+      "joyce"
+     ],
+     "intro": "出自《流动的盛宴》第4章，《莎士比亚书店》。海明威刚到巴黎不久，买不起书。这家英文书店兼租书馆是美国人西尔维娅·比奇开的，他第一次进门时身上的钱连押金都不够。两人谈到的乔伊斯，那时正在等这家书店替他出版《尤利西斯》。",
+     "introAudio": "audio/shakespeare-and-company-1-intro.m4a",
+     "durationSec": 183,
+     "introDurationSec": 22
+    },
+    {
+     "id": "shakespeare-and-company-2",
+     "title": "“你太瘦了，海明威”",
+     "chapter": 8,
+     "chapterTitle": "饥饿是有益的锻炼",
+     "chineseMatch": {
+      "chapter": 8,
+      "paragraphIds": [
+       "8-4",
+       "8-5",
+       "8-6",
+       "8-7",
+       "8-8",
+       "8-9",
+       "8-10",
+       "8-11",
+       "8-12",
+       "8-13",
+       "8-14",
+       "8-15",
+       "8-16",
+       "8-17",
+       "8-18",
+       "8-19",
+       "8-20",
+       "8-21",
+       "8-22",
+       "8-23",
+       "8-24",
+       "8-25",
+       "8-26",
+       "8-27",
+       "8-28",
+       "8-29",
+       "8-30",
+       "8-31",
+       "8-32",
+       "8-33",
+       "8-34",
+       "8-35",
+       "8-36"
+      ]
+     },
+     "paragraphs": [
+      "走到奥戴翁路12号时，饥饿已经抑住，全副感官却灵敏起来。墙上的照片看去不一样了，书也仿佛变陌生了。",
+      "“你太瘦了，海明威，”西尔维娅会说，“你吃得够吗？”",
+      "“当然。”",
+      "“你午饭吃什么？”",
+      "我的胃都要翻过来了，但我还是说，“我现在回家吃午饭。”",
+      "“下午三点吃午饭？”",
+      "“我都不知道这么晚啦。”",
+      "“阿德里安娜哪天告诉我，她想请你和哈德莉去吃饭。我们还想请法尔格。你喜欢法尔格吧？或者拉尔博，你还挺喜欢他的。我知道你喜欢他。或者请个其他你真喜欢的。你跟哈德莉说这事？”",
+      "“我估计她会乐意来。”",
+      "“我再给她写一封快信。你吃得不好，工作就别那么拼命。”",
+      "“我不会了。”",
+      "“现在回家去吧，不然就错过午饭了。”",
+      "“他们会帮我留一顿的。”",
+      "“别吃冷食。吃点上好的热食。”",
+      "“我有邮件吗？”",
+      "“我想没有，不过我再看看。”",
+      "她查看一下，找到了一张便条，笑着抬头看看，打开她写字台上一个小橱门。",
+      "“这是我出门时来的，”她说，那是一封信，摸起来似乎里头有钱。“韦德考普。”西尔维娅说。",
+      "“那一定是《纵观》杂志来的。你见了韦德考普了吗？”",
+      "“没有。不过他和乔治来过这里。他会找你的。别着急。也许他想把钱预付给你。”",
+      "“这里有六百法郎。他信里说之后还有。”",
+      "“你之前提醒我看看邮件，才找到这笔稿费的，我真是太开心了。天哪，我太开心了。”",
+      "“我的作品只在德国有人买，太他妈好笑了。我只能卖给韦德考普和《法兰克福报》。”",
+      "“是吗？不过你千万别着急。你可以卖短篇小说给福特呀。”她揶揄道。",
+      "“一页只挣三十法郎。如果每个季度在《大西洋评论》上发表一个短篇，五页长的短篇能卖150法郎，一年600法郎。”",
+      "“可是，海明威，别忧心小说现在可以挣多少钱。关键是，你能够写出来呀。”",
+      "“我知道。我能写出来。但没人会买的。自从我不干记者之后，根本没有进账。”",
+      "“会卖出去的。看，你这不是挣了一笔钱了吗？”",
+      "“抱歉，西尔维娅。原谅我说这些。”",
+      "“原谅你什么呀？我们总是谈这些，什么都谈。你不知道作家们永远在诉苦吗？不过答应我，别再担心了，还有，你得吃饱。”",
+      "“我答应你。”",
+      "“现在回家去，吃午饭吧。”",
+      "出到奥戴翁路上，我为自己的抱怨诉苦感到自惭形秽。我所做的都出于自我意愿，却又做得如此笨拙。我该买一大块面包来吃了，好过省一顿饭。我都能想象到褐色面包壳的诱人芳香，不过不就着点什么喝，空口吃面包，嘴便太干了。你这个混蛋的牢骚鬼！你这个龌龊的假圣徒殉道者！我骂自己。你自愿放弃当记者的。你信用清白，只要张嘴，西尔维娅还是会借给你钱。她已经借过许多次了。当然。之后你就该牺牲点别的什么。饥饿是健康的，你饿肚子时，画儿看起来都更美。吃东西也不错，你现在知道你该去哪儿吃了吗？"
+     ],
+     "chars": 1077,
+     "audio": "audio/shakespeare-and-company-2.m4a",
+     "englishChapterTitle": "Hunger Was Good Discipline",
+     "englishAnchorStart": "By the time you reached 12 rue de l'Odéon your hunger was contained but",
+     "englishAnchorEnd": "Outside on the rue de l'Odéon I was disgusted with",
+     "englishParagraphs": [
+      4,
+      36
+     ],
+     "zhEnRatio": 0.346,
+     "needsReview": false,
+     "chapterLabel": "第8章",
+     "context": "1924 年前后，海明威已辞去记者工作，小说却一篇篇被退回。这天他没吃午饭，饿着肚子走到书店，西尔维娅一眼看出他瘦了，一边把信件和一笔德国杂志寄来的稿费交给他，一边劝他好好吃饭。",
+     "people": [
+      "hemingway",
+      "beach"
+     ],
+     "intro": "出自《流动的盛宴》第8章，《饥饿是有益的锻炼》。1924 年前后，海明威已辞去记者工作，小说却一篇篇被退回。这天他没吃午饭，饿着肚子走到书店，西尔维娅一眼看出他瘦了，一边把信件和一笔德国杂志寄来的稿费交给他，一边劝他好好吃饭。",
+     "introAudio": "audio/shakespeare-and-company-2-intro.m4a",
+     "durationSec": 236,
+     "introDurationSec": 23
+    }
+   ],
+   "chapter": 4,
+   "chapterTitle": "莎士比亚书店",
+   "englishQuoteOrAnchor": "In those days there was no money to buy books. I borrowed books from",
+   "autoplay": true
+  },
+  {
+   "id": "quai-de-la-tournelle",
+   "nameZh": "银塔餐厅旁的河岸书摊",
+   "canonicalName": "Bookstall near the Tour d'Argent",
+   "historicalName": "Bouquiniste by La Tour d'Argent, quai de la Tournelle",
+   "modernName": "Quai de la Tournelle (bouquinistes) / La Tour d'Argent",
+   "historicalAddress": "Quai de la Tournelle, by 15 quai de la Tournelle, Paris 5e",
+   "modernAddress": "15 quai de la Tournelle, 75005 Paris",
+   "lat": 48.849815,
+   "lng": 2.355098,
+   "radiusM": 50,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "从勒姆瓦纳主教街一路下坡就到这里。银塔餐厅仍在 15 号；当年的那位书摊女主人当然不在了，但河岸书摊还在。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.5: 'The Tour D'Argent restaurant had a few rooms above the restaurant that they rented … there was a bookstall not far along the quai where the valet de chambre sold them'"
+    },
+    {
+     "source": "Wikipedia — La Tour d'Argent",
+     "url": "https://en.wikipedia.org/wiki/La_Tour_d%27Argent",
+     "claim": "Located at 15 Quai de la Tournelle."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "15 Quai de la Tournelle → 48.849815, 2.355098"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "quai-de-la-tournelle-1",
+     "title": "下到河边，书摊女主人",
+     "chapter": 5,
+     "chapterTitle": "塞纳河边人",
+     "chineseMatch": {
+      "chapter": 5,
+      "paragraphIds": [
+       "5-1",
+       "5-2",
+       "5-3",
+       "5-4",
+       "5-5",
+       "5-6",
+       "5-7",
+       "5-8",
+       "5-9",
+       "5-10",
+       "5-11",
+       "5-12"
+      ]
+     },
+     "paragraphs": [
+      "从勒姆瓦纳主教街上，有许多条路通到塞纳河边。最短的一条路是直沿街而下，只是路太陡，且一到平地，穿过圣日耳曼大道街口的重重车流，便是一段阴森荒凉、阴风飕飕的河岸。这里右侧挨着一个酒市，不同于巴黎任何一个市场，此处是个关栈，扣存葡萄酒以待完税，外表看来，阴森得仿佛军用仓库或者监狱。",
+      "塞纳河支流对岸，便是圣路易岛，那里街道窄，老屋高而又美，你可以去到那里，或是左转沿河边路走，于是圣母院与西岱岛就在对面了。",
+      "河岸边的书摊上，你有时能廉价买到新出版的美国书。银塔餐厅楼上有些房间，那时还出租，租客在银塔吃饭时还能打折；那些房客忘带走的书，仆人都拿去不远的河岸书摊卖，你花不了几个法郎，就能从老板娘那里买到手。她不把英语写的书当回事，买时既没花几个钱，卖也只求薄利。",
+      "“这些书好吗？”我们成了朋友之后，她如此问。",
+      "“偶尔能赶上本好书。”",
+      "“你怎么分辨呢？”",
+      "“我读了就知道啦！”",
+      "“但仍然得碰运气，再说多少人能读英语呢？”",
+      "“把英语书都存着，给我过一遍。”",
+      "“不，不能存。你又不常来，你老长时间不露面。我得尽快卖书。谁都不晓得这些英语书是不是值钱。赶上它们一文不值，我存下来了，卖都卖不掉。”",
+      "“你怎么分辨一本法语书有没有价值呢？”",
+      "“先看有没有插图，然后是插图质量，再就是装订。如果这是本好书，书主人一定会要求精心装订。英语书倒都装订过，但装订很糟，看不出好坏。”"
+     ],
+     "chars": 568,
+     "audio": "audio/quai-de-la-tournelle-1.m4a",
+     "englishChapterTitle": "People of the Seine",
+     "englishAnchorStart": "There were many ways of walking down to the river from the top of",
+     "englishAnchorEnd": "\"First there are the pictures. Then it is a question",
+     "englishParagraphs": [
+      1,
+      12
+     ],
+     "zhEnRatio": 0.251,
+     "needsReview": false,
+     "chapterLabel": "第5章",
+     "context": "从海明威在勒姆瓦纳主教街的家一路下坡，就到塞纳河边。河岸石墙上一排排绿色铁箱是旧书摊，他在这里淘便宜的英文书，也和摆摊的女人成了朋友。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第5章，《塞纳河边人》。从海明威在勒姆瓦纳主教街的家一路下坡，就到塞纳河边。河岸石墙上一排排绿色铁箱是旧书摊，他在这里淘便宜的英文书，也和摆摊的女人成了朋友。",
+     "introAudio": "audio/quai-de-la-tournelle-1-intro.m4a",
+     "durationSec": 119,
+     "introDurationSec": 19
+    }
+   ],
+   "chapter": 5,
+   "chapterTitle": "塞纳河边人",
+   "englishQuoteOrAnchor": "There were many ways of walking down to the river from the top of",
+   "autoplay": true
+  },
+  {
+   "id": "quai-des-grands-augustins",
+   "nameZh": "大奥古斯丁码头路的书摊",
+   "canonicalName": "Quai des Grands Augustins bookstalls",
+   "historicalName": "Bouquinistes, quai des Grands Augustins",
+   "modernName": "Quai des Grands Augustins",
+   "historicalAddress": "Quai des Grands Augustins, Paris 6e",
+   "modernAddress": "Quai des Grands Augustins, 75006 Paris",
+   "lat": 48.8557,
+   "lng": 2.340981,
+   "radiusM": 60,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "一段码头而不是一个门牌，坐标取在码头中段。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.5: 'there were no others that sold American and English books until the quai des Grands Augustins. There were several from there on to beyond the quai Voltaire…'"
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Quai des Grands Augustins → 48.8557, 2.340981"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "quai-des-grands-augustins-1",
+     "title": "被扔掉的书",
+     "chapter": 5,
+     "chapterTitle": "塞纳河边人",
+     "chineseMatch": {
+      "chapter": 5,
+      "paragraphIds": [
+       "5-13",
+       "5-14",
+       "5-15",
+       "5-16",
+       "5-17",
+       "5-18"
+      ]
+     },
+     "paragraphs": [
+      "除了这家书铺，从银塔到大奥古斯丁码头路，无处可觅英美书籍了。从大奥古斯丁到伏尔泰码头路那段，倒有几处书铺，左岸几家旅馆，尤其是伏尔泰饭店的雇员，会捡了客人丢的书卖给书铺。伏尔泰饭店的阔佬旅客最多。有一天，我问另一位已成我朋友的书铺老板娘，那些书的主人自己有没有卖过书呢？",
+      "“没有，”她回答，“那些书都是主人扔了的，所以我们知道这些书不值钱。”",
+      "“大概是朋友们送了，让他们在船上读的吧？”",
+      "“一定的，”她说，“他们肯定在船上扔了不少书。”",
+      "“对，”我说，“航运公司把书收集了一装订，就成了船上博物馆的藏书。”",
+      "“真聪明，”她说，“至少他们会好好装订一下，这样这些书又值钱了。”"
+     ],
+     "chars": 282,
+     "audio": "audio/quai-des-grands-augustins-1.m4a",
+     "englishChapterTitle": "People of the Seine",
+     "englishAnchorStart": "After that bookstall near the Tour D'Argent there were no others that sold American",
+     "englishAnchorEnd": "\"That's intelligent,\" she said. \"At least they are properly bound",
+     "englishParagraphs": [
+      13,
+      18
+     ],
+     "zhEnRatio": 0.335,
+     "needsReview": false,
+     "chapterLabel": "第5章",
+     "context": "接着上一段，沿河往下游走。这一带的书摊常有左岸旅馆里的客人留下的英文书，海明威和另一位女摊主聊起这些书是从哪儿来的。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第5章，《塞纳河边人》。接着上一段，沿河往下游走。这一带的书摊常有左岸旅馆里的客人留下的英文书，海明威和另一位女摊主聊起这些书是从哪儿来的。",
+     "introAudio": "audio/quai-des-grands-augustins-1-intro.m4a",
+     "durationSec": 57,
+     "introDurationSec": 16
+    }
+   ],
+   "chapter": 5,
+   "chapterTitle": "塞纳河边人",
+   "englishQuoteOrAnchor": "After that bookstall near the Tour D'Argent there were no others that sold American",
+   "autoplay": true
+  },
+  {
+   "id": "square-du-vert-galant",
+   "nameZh": "西岱岛尖端（威尔—加朗）",
+   "canonicalName": "Square du Vert-Galant",
+   "historicalName": "Point of the Île de la Cité below the Pont Neuf",
+   "modernName": "Square du Vert-Galant",
+   "historicalAddress": "Pointe de l'Île de la Cité, below the Pont Neuf, Paris 1er",
+   "modernAddress": "Square du Vert-Galant, 75001 Paris",
+   "lat": 48.857407,
+   "lng": 2.340328,
+   "radiusM": 70,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "新桥下、亨利四世像后面的小公园，岛像船头一样收尖。钓鱼人就在这一带。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.5: 'At the head of the Île de la Cité below the Pont Neuf where there was the statue of Henri Quatre, the island ended in a point like the sharp bow of a ship and there was a small park at the water's edge…'"
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Square du Vert Galant → 48.857407, 2.340328"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "square-du-vert-galant-1",
+     "title": "钓鱼人与河上的春天",
+     "chapter": 5,
+     "chapterTitle": "塞纳河边人",
+     "chineseMatch": {
+      "chapter": 5,
+      "paragraphIds": [
+       "5-19",
+       "5-20",
+       "5-21",
+       "5-22",
+       "5-23",
+       "5-24"
+      ]
+     },
+     "paragraphs": [
+      "我工作结束后，或我想思索点什么时，便会沿河岸而行。我散步、做活或看内行做事时，思考会容易些。在西岱岛尖的新桥下，有一座亨利四世雕像，岛便从那一点伸入河水，仿佛一个尖船头，水边有一处小公园，栗树葱茏，塞纳河流经此处，分出几股暗流与回流，这里是钓鱼的好所在。沿阶下到公园里，看得见那里与大桥下许多人在垂钓。钓鱼的好所在随水位起伏变化。钓鱼人使用拼接起的长钓竿，顶端倒是钓钩精巧、浮标轻盈，老练地垂水诱鱼。他们总能钓到些鱼，经常钓得到酷似鲤鱼的鮈鱼。这种鱼整条炸来甚是美味，我可以吃一盘。它们肥美肉甜，口感还细腻过新鲜的沙丁鱼，一点都不油，我们连它们的骨头一起吃。",
+      "吃鮈鱼最好的地方之一，是巴默东那里一家建在河面上的露天餐厅，叫做“神奇渔场”，我们每逢手头宽裕时便去。此处有极好的白葡萄酒，用蜜思卡黛葡萄酿的。莫泊桑小说里写过这里，西斯莱则画过这里望到的河景。你不一定得走那么远吃鮈鱼，你到圣路易也能吃到好煎鱼。",
+      "我认识几位钓鱼人，常在塞纳河上圣路易岛到威尔—加朗之间的鱼群密集水域垂钓，天气晴朗时，我会买一升葡萄酒、一条面包配些香肠，坐在阳光里，读我买的哪本书，看他们钓鱼。",
+      "游记作者把塞纳河上钓鱼者写成疯子，从来钓不到什么东西。但他们是认真钓鱼，确有渔获。钓鱼人大多单靠微薄的养老金度日——那时他们尚不知通货膨胀会令养老金贬值——也有些是赶着全天或半天的休息日来此钓鱼的爱好者。在马恩河汇入塞纳河的沙朗通以及巴黎两头，都有更好的钓鱼所在，不过巴黎市内反正也有钓鱼的好所在。我不钓鱼，是因为我没有渔具，再者我想省下钱，去西班牙钓鱼。而且我也不知道自己何时能完工，也不知道我何时会离开巴黎，所以我不想在钓鱼这种看运气撞日子的事情里多所沉溺。但我热切旁观他们钓鱼，因为钓鱼有趣，学之有益。每当我看到市里有人钓鱼，钓得全神贯注，还能带些鱼回去全家共享，我就十分高兴。",
+      "钓鱼人自有河上生涯，驳船上自有船上生涯，拖船放倒了烟筒拖着一串小货船驶过桥下，石头河岸上榆树耸立，还有法国梧桐与白杨：有了这些，我在塞纳河边永不会寂寞。市里的树如此之多，你能看见春天逐日走近，直到盈夜暖风，次日早晨便春归大地。有时候冷风沉重，会将春天赶回去，似乎再也不来，于是你失去了生命中的一个季节：这是巴黎唯一真正悲伤的时节，因为这样违天背时。你在秋天自会感伤，每年秋天树上落叶秋风剔枝，你的某些部分也随之死去。但你知道春天总会来，就像你知道河流解冻后自会流淌。当冷雨扼杀春天时，就像一个年轻人莫名其妙地死去了。",
+      "那些日子里，春天最后总会到来；但想到春天几近夭折，还是令人心惊。"
+     ],
+     "chars": 1065,
+     "audio": "audio/square-du-vert-galant-1.m4a",
+     "englishChapterTitle": "People of the Seine",
+     "englishAnchorStart": "I would walk along the quais when I had finished work or when I",
+     "englishAnchorEnd": "In those days, though, the spring always came finally but",
+     "englishParagraphs": [
+      19,
+      24
+     ],
+     "zhEnRatio": 0.255,
+     "needsReview": false,
+     "chapterLabel": "第5章",
+     "context": "写完一天的东西，或者有事要想的时候，海明威就沿着河走到这座岛的尖端来看人钓鱼。钓上来的是一种叫鮈鱼的小鱼，整条油炸了吃。这一章以巴黎迟迟不来的春天收尾。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第5章，《塞纳河边人》。写完一天的东西，或者有事要想的时候，海明威就沿着河走到这座岛的尖端来看人钓鱼。钓上来的是一种叫鮈鱼的小鱼，整条油炸了吃。这一章以巴黎迟迟不来的春天收尾。",
+     "introAudio": "audio/square-du-vert-galant-1-intro.m4a",
+     "durationSec": 225,
+     "introDurationSec": 20
+    }
+   ],
+   "chapter": 5,
+   "chapterTitle": "塞纳河边人",
+   "englishQuoteOrAnchor": "I would walk along the quais when I had finished work or when I",
+   "autoplay": true
+  },
+  {
+   "id": "pont-du-carrousel",
+   "nameZh": "卢浮宫外的桥",
+   "canonicalName": "Bridge outside the Louvre gateway (Pont du Carrousel)",
+   "historicalName": "Pont du Carrousel (old bridge, replaced 1935–39 slightly downstream)",
+   "modernName": "Pont du Carrousel",
+   "historicalAddress": "Guichets du Louvre → Pont du Carrousel, Paris 1er",
+   "modernAddress": "Pont du Carrousel, 75001 Paris",
+   "lat": 48.859347,
+   "lng": 2.332916,
+   "radiusM": 70,
+   "status": "rebuilt",
+   "confidence": "MEDIUM",
+   "note": "原文没有写桥名：两人穿过杜伊勒里、从卢浮宫的门洞出来“站在桥上”，随后“走上圣父路”。卢浮宫门洞正对、且直通圣父路的桥只有卡鲁塞尔桥，所以这是推定（MEDIUM）。现在的桥是 1930 年代重建的，比旧桥略偏下游。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.6: 'Now we had come out of the gateway through the Louvre and crossed the street outside and were standing on the bridge leaning on the stone and looking down at the river.' … 'So we walked up the rue des Saints-Pères to the corner of the rue Jacob.'"
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Pont du Carrousel → 48.859347, 2.332916"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "pont-du-carrousel-1",
+     "title": "穿过杜伊勒里，站在桥上",
+     "chapter": 6,
+     "chapterTitle": "虚假的春天",
+     "chineseMatch": {
+      "chapter": 6,
+      "paragraphIds": [
+       "6-29",
+       "6-30",
+       "6-31",
+       "6-32",
+       "6-33",
+       "6-34",
+       "6-35",
+       "6-36",
+       "6-37",
+       "6-38",
+       "6-39",
+       "6-40",
+       "6-41",
+       "6-42",
+       "6-43",
+       "6-44",
+       "6-45",
+       "6-46",
+       "6-47",
+       "6-48",
+       "6-49",
+       "6-50",
+       "6-51",
+       "6-52",
+       "6-53",
+       "6-54",
+       "6-55",
+       "6-56",
+       "6-57",
+       "6-58"
+      ]
+     },
+     "paragraphs": [
+      "那年稍后的某天，我们刚旅行归来，赛马时又走了运，回家途中在普吕尼埃饭店门口，将橱窗里各色珍奇看罢一遍后，进门坐在吧台。我们吃了牡蛎和墨西哥蟹，配了几杯雪利酒。我们在夜幕下回家，穿过杜伊勒里时停下来，透过小凯旋门，凝望黑暗中的花园，夜色之后是协和广场的灯光，再之后便是一长串渐次升高、通到凯旋门的路灯了。然后我们回身看向黑暗中的卢浮宫，我问，“你真相信，这三个拱门是一条直线吗？这两座，还有米兰的西尔米奥奈？”",
+      "“我不知道，塔蒂。他们都这么说，他们大概知道吧。你还记得那次我们冒雪翻过山，来到圣伯纳山口的意大利一侧，一脚便踏进了春天，你记得你、钦克和我一起在春光里走了一天，直到奥斯塔吗？”",
+      "“钦克说，那是‘穿着逛街鞋，翻越圣伯纳山口’，还记得你的鞋吗？”",
+      "“我可怜的鞋呀。你还记得我们在加莱利的比菲餐厅吃大玻璃樽里的新鲜桃子、野草莓配卡普里酒和冰块吗？”",
+      "“我就是那会儿开始琢磨三拱门的。”",
+      "“我记得西尔米奥奈拱门。就跟这拱门一样。”",
+      "“你记得艾格尔的小酒店么？你和钦克坐在花园里读书，我在钓鱼？”",
+      "“记得，塔蒂。”",
+      "我记得罗纳河，狭窄，灰色，满河雪块，河两边是斯托卡普和罗纳两条运河，出产鳟鱼。那天斯托卡普运河很是清澈，罗纳运河依然浑浊。",
+      "“你还记得七叶树开花时节，我怎么竭力回忆一个吉姆·甘贝尔告诉我的关于紫藤蔓的故事，却怎么都记不起么？”",
+      "“记得，塔蒂。你和钦克总是讨论如何描述得真实，如何如实写来不加文饰。我记得一切。有时他是对的，有时你是对的。我记得你们争论的是灯光、结构和形体什么的。”",
+      "此时我们已经穿过卢浮宫，过了外面的街道，站在桥上，倚着石栏，看桥下河水。",
+      "“我们三人都会争论一切，总争论具体问题，还互相打趣。我记得那次旅行我们所说所做的一切，”哈德莉说，“我真的都记得。一切。你和钦克讨论时我也参与其中。可不像在斯泰因小姐那里，我只是个来客的妻子。”",
+      "“我真希望我能记起那个关于紫藤蔓的故事。”",
+      "“故事不重要，主要是那种藤蔓，塔蒂。”",
+      "“你还记得我从艾格尔带回小木屋的葡萄酒嘛？那种酒在小酒店里发售，他们说这些酒该搭配鳟鱼喝。我们好像用《洛桑报》包裹着带回去的。”",
+      "“锡永葡萄酒还应更好些。你记得我们回到木屋时，甘奇维西夫人已经用酸汁炖好了鳟鱼么？真是好鳟鱼啊，塔蒂，我们坐到外面的门廊，喝塞恩葡萄酒，下面就是大山斜坡，可以远看湖对岸，积雪到半山腰的南山，还有罗纳河入湖口的树。”",
+      "“我们总是在冬天与春天想念钦克。”",
+      "“总是如此，现在春天过了，我都在想念他呢。”",
+      "钦克是个职业军人，从陆军军官学校毕业后就去了蒙斯。我与他在意大利初遇，之后他成了我最好的朋友，很长一段时间里，他也是我与我妻子最好的朋友。那时他总来我们家度假。",
+      "“他准备设法搞到明年春天的假期。他上周从科隆写来封信。”",
+      "“我知道。我们还是该珍惜眼前，分秒必争。”",
+      "“我们已经看了河水拍墙的所在，再往上游看看吧。”",
+      "我们望向河水上游，一切尽收眼底：我们的塞纳河，我们的巴黎，我们的岛。",
+      "“我们太幸运了。”她说，“我希望钦克可以来。他很照顾我们。”",
+      "“他自己倒不这么认为。”",
+      "“当然啦。”",
+      "“他觉得我们是在共同探险呢。”",
+      "“没错，不过也得看是探什么险。”",
+      "我们过了桥，来到我们家这边的河岸。"
+     ],
+     "chars": 1305,
+     "audio": "audio/pont-du-carrousel-1.m4a",
+     "englishChapterTitle": "A False Spring",
+     "englishAnchorStart": "Another day later that year when we had come back from one of our",
+     "englishAnchorEnd": "We walked across the bridge and were on our own",
+     "englishParagraphs": [
+      29,
+      58
+     ],
+     "zhEnRatio": 0.31,
+     "needsReview": false,
+     "chapterLabel": "第6章",
+     "context": "这天海明威和哈德莉刚旅行回来，赌赛马又赢了钱，先去吃了牡蛎和螃蟹，然后在暮色里穿过杜伊勒里花园往家走。两人想起好朋友钦克，想起三个人一起翻越阿尔卑斯山的日子。这是全书里他们最幸福的一个傍晚。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "chink"
+     ],
+     "intro": "出自《流动的盛宴》第6章，《虚假的春天》。这天海明威和哈德莉刚旅行回来，赌赛马又赢了钱，先去吃了牡蛎和螃蟹，然后在暮色里穿过杜伊勒里花园往家走。两人想起好朋友钦克，想起三个人一起翻越阿尔卑斯山的日子。这是全书里他们最幸福的一个傍晚。",
+     "introAudio": "audio/pont-du-carrousel-1-intro.m4a",
+     "durationSec": 274,
+     "introDurationSec": 23
+    }
+   ],
+   "chapter": 6,
+   "chapterTitle": "虚假的春天",
+   "englishQuoteOrAnchor": "Another day later that year when we had come back from one of our",
+   "autoplay": true
+  },
+  {
+   "id": "michaud",
+   "nameZh": "米肖饭店",
+   "canonicalName": "Michaud's",
+   "historicalName": "Restaurant Michaud",
+   "modernName": "Le Comptoir des Saints-Pères (earlier Brasserie L'Escorailles)",
+   "historicalAddress": "Corner of rue Jacob and rue des Saints-Pères, Paris 6e",
+   "modernAddress": "29 rue des Saints-Pères, 75006 Paris",
+   "lat": 48.856344,
+   "lng": 2.331798,
+   "radiusM": 30,
+   "status": "renamed",
+   "confidence": "HIGH",
+   "note": "原文直接给出了街角：雅各路与圣父路（中译本此处作“教皇路”）。米肖早已不在，这个街角的店后来叫 L'Escorailles，现在是 Le Comptoir des Saints-Pères。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.19: 'Scott asked me to have lunch with him at Michaud's restaurant on the corner of the rue Jacob and the rue des Saints-Pères.' Ch.6: 'we walked up the rue des Saints-Pères to the corner of the rue Jacob … We stood outside of Michaud's restaurant.'"
+    },
+    {
+     "source": "PBS — Michael Palin's Hemingway Adventure, Paris walk 2",
+     "url": "https://www.pbs.org/hemingwayadventure/walk2.html",
+     "claim": "Brasserie l'Escorailles, at the end of rue Jacob, was Michaud's in the 1920s."
+    },
+    {
+     "source": "Adequatica — Hemingway in Paris (annotated location list, secondary)",
+     "url": "https://adequatica.substack.com/p/hemingway-in-paris",
+     "claim": "Restaurant Michaud: 29 rue des Saints-Pères, now Le Comptoir des Saints-Pères."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "'Le Comptoir des Saints-Pères, 29 Rue des Saints-Pères' → 48.856344, 2.331798"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "michaud-1",
+     "title": "站在米肖门外：饥饿有许多种",
+     "chapter": 6,
+     "chapterTitle": "虚假的春天",
+     "chineseMatch": {
+      "chapter": 6,
+      "paragraphIds": [
+       "6-65",
+       "6-66",
+       "6-67",
+       "6-68",
+       "6-69",
+       "6-70",
+       "6-71",
+       "6-72",
+       "6-73",
+       "6-74",
+       "6-75",
+       "6-76",
+       "6-77",
+       "6-78",
+       "6-79"
+      ]
+     },
+     "paragraphs": [
+      "于是我们走上教皇路到雅各路拐角，时时停下看看橱窗里的画与家具。我们在米肖饭店门外站住读菜单。米肖饭店很挤，我们等位，看着那些已经开始喝饭后咖啡的客人们。",
+      "我们因为走路，又饿了起来，米肖这么昂贵的饭店则让我们兴奋。那次我就看见乔伊斯一家在这里吃饭：他和妻子诺拉靠墙坐，乔伊斯一手举菜谱，透过厚眼镜片扫视；诺拉在他身旁，她食欲颇佳，只有些挑食；乔治奥身材瘦弱，打扮周正，背后看去头发泛着光亮；露茜亚一头浓密的鬈发，是个还没长开的小姑娘；全家人都说意大利语。",
+      "站在这里，我不禁好奇：我们在桥上的感觉，有多少是单纯的饥饿呢？我问妻子，她说，“我不知道，塔蒂。饥饿的种类太多啦，到得春天便更多。但春天过去了，记忆本身就是饥饿。”",
+      "我真是傻。透过窗户，看着侍者端上两份菲力牛排，我知道，自己只是单纯的饥饿。",
+      "“你今天说我们很幸运，我们当然幸运啦。我们还真是得了好主意呢。”",
+      "她笑了起来。",
+      "“我不是说我们赛马走运。你真是个死脑筋的小伙子。我说的是别的事。”",
+      "“我觉得钦克不喜欢赛马。”我这么一说，更显得蠢了。",
+      "“不。他更在意自己是不是在骑马。”",
+      "“你不想再去看赛马了吗？”",
+      "“当然想去。我们现在又能想去哪里就去哪里啦。”",
+      "“但是，你真想去看赛马？”",
+      "“当然了，你也想看赛马，不是么？”",
+      "我们进门，在米肖饭店好好地吃了顿。吃饱之后赶公车回家，肚子的饥饿感荡然无存，但我们在桥上的感觉却依然留着。到我们回到房间，上了床，在黑暗中做爱，这感觉依然存在。当我醒来，看到窗户敞开，月光落在高高的屋顶上，这感觉依然存在。我将脸从月光转向暗影中，我依然睡不着，躺着思索。当晚我们都醒过来两次。此时月光落在我妻子脸上，她睡得香甜。我尝试着琢磨出点什么，但我太蠢了。头天早上我醒转时，看到虚假的春天到来，听到牧羊人在风笛声中赶羊，出去买赛马报时，还觉得生活如此简单呢。",
+      "然而，巴黎是一个古老的城市，我们那时都年轻，什么事都不简单，甚至连我们遭遇的贫困、突如其来的横财、头顶的月光、事情的对错，甚至我身边在月光下沉睡之人的呼吸，都不那么简单。"
+     ],
+     "chars": 840,
+     "audio": "audio/michaud-1.m4a",
+     "englishChapterTitle": "A False Spring",
+     "englishAnchorStart": "So we walked up the rue des Saints-Pères to the corner of the rue",
+     "englishAnchorEnd": "But Paris was a very old city and we were",
+     "englishParagraphs": [
+      65,
+      79
+     ],
+     "zhEnRatio": 0.313,
+     "needsReview": false,
+     "chapterLabel": "第6章",
+     "context": "紧接桥上那一段：两人过了河，走到这家他们平时吃不起的饭店门口。乔伊斯一家常在里面吃饭。海明威站在窗外，想弄明白自己感到的到底是哪一种饿；这一章结尾处的不安，是他多年后回望这段婚姻时才有的。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "joyce",
+      "chink"
+     ],
+     "intro": "出自《流动的盛宴》第6章，《虚假的春天》。紧接桥上那一段：两人过了河，走到这家他们平时吃不起的饭店门口。乔伊斯一家常在里面吃饭。海明威站在窗外，想弄明白自己感到的到底是哪一种饿；这一章结尾处的不安，是他多年后回望这段婚姻时才有的。",
+     "introAudio": "audio/michaud-1-intro.m4a",
+     "durationSec": 177,
+     "introDurationSec": 23
+    },
+    {
+     "id": "michaud-2",
+     "title": "与斯科特的午餐：尺寸问题",
+     "chapter": 19,
+     "chapterTitle": "尺寸问题",
+     "chineseMatch": {
+      "chapter": 19,
+      "paragraphIds": [
+       "19-1",
+       "19-2",
+       "19-3",
+       "19-4",
+       "19-5",
+       "19-6",
+       "19-7",
+       "19-8",
+       "19-9",
+       "19-10",
+       "19-11",
+       "19-12",
+       "19-13",
+       "19-14",
+       "19-15",
+       "19-16",
+       "19-17",
+       "19-18",
+       "19-19",
+       "19-20",
+       "19-21",
+       "19-22",
+       "19-23",
+       "19-24",
+       "19-25",
+       "19-26",
+       "19-27",
+       "19-28",
+       "19-29",
+       "19-30",
+       "19-31"
+      ]
+     },
+     "paragraphs": [
+      "很久之后，在泽尔达经历了所谓第一次精神崩溃之后，我们恰好又同在巴黎，斯科特找我去雅各布路和教皇路拐角的米肖饭店吃午饭。他说他有点很重要的事要问我，对他而言这事重要过世上的一切，我必须回答得绝对诚实。我说我会尽力。每次他让我绝对诚实地回答问题时我都如实回答，但我的回答总让他生气，不过经常不是当场发作，而是事过之后，有时隔了许久，他细思之后才生气。我的话就成了他必须摧毁的玩意，如果可以，连我一起都摧毁。",
+      "他午饭喝了酒，但对他没影响；午饭前他也没特意喝酒。我们谈论各自的写作，谈论其他人，他问及一些我们最近没见着的人。我知道出于各种原因他正遇到大麻烦，但他想谈的不是这些。我等着他提问，等着他要提问的、我必须绝对诚实回答的问题，但他直到饭局末尾才将问题抛出来，仿佛我们在吃顿商务午餐似的。",
+      "最后我们吃樱桃派、喝最后一瓶酒时，他问：“你知道我没跟泽尔达之外的任何女人睡过。”",
+      "“我不知道。”",
+      "“我以为我告诉过你。”",
+      "“不。你告诉过我许多事，但这个没有。”",
+      "“那跟我必须问你的事有关。”",
+      "“好的。问吧。”",
+      "“泽尔达说，就我的状况，我不可能取悦其他女人，她对我不满也源于此。她说这是个尺寸问题。她这么说过后，我一直感觉不对，我得确认下。”",
+      "“我们去办公室。”我说。",
+      "“办公室在哪儿？”",
+      "“洗手间。”我说。",
+      "我们回到餐桌边坐下。",
+      "“你完全没问题。”我说，“你没问题。没有哪里不对劲。你低头看自己，当然会觉得短些。去卢浮宫，看看那些雕塑，再回家看看镜子里的自己。”",
+      "“那些雕塑可能不准确。”",
+      "“他们很正常。大多数人都和他们一样。”",
+      "“但她为何这么说？”",
+      "“是为了让你丧失信心。这是让世上的男人丧失信心最古老的法子了。斯科特，你要我告诉你真相，我可以告诉你更多，但这就是绝对的真相，这就是你所需要的一切。你也可以去问个医生。”",
+      "“我不想去。我想你告诉我真相。”",
+      "“你现在相信我吗？”",
+      "“我不知道。”他说。",
+      "“我们去卢浮宫。”我说，“就在街那头，过河就是。”",
+      "我们去到卢浮宫，他看了雕塑，但依然不相信自己。",
+      "“平时它休息时的尺寸不成问题，”我说，“尺寸是指它勃起之后的模样，这里也有角度的问题。”我用个枕头和其他一些东西帮助他理解。",
+      "“有个女孩，”他说，“她对我很亲切，但泽尔达这么说过之后……”",
+      "“忘掉泽尔达说的话。”我告诉他，“泽尔达疯了。你一点问题也没有。有点信心，满足那女孩。泽尔达只是想毁了你。”",
+      "“你对泽尔达一无所知。”",
+      "“好的，”我说，“这一点随意好了。但你来吃午饭，问了我个问题，我已经尽力给了你诚实的答案。”",
+      "但他还是疑虑重重。",
+      "“我们要去看些画儿吗？”我问，“这里的画儿，除了《蒙娜丽莎》，你看过别的吗？”",
+      "“我没心情看画儿，”他说，“我跟人约好要在里兹酒吧见的。”"
+     ],
+     "chars": 1105,
+     "audio": "audio/michaud-2.m4a",
+     "englishChapterTitle": "A Matter of Measurements",
+     "englishAnchorStart": "Much later, in the time after Zelda had what was then called her first",
+     "englishAnchorEnd": "\"I'm not in the mood for looking at pictures,\" he",
+     "englishParagraphs": [
+      1,
+      31
+     ],
+     "zhEnRatio": 0.292,
+     "needsReview": false,
+     "chapterLabel": "第19章",
+     "context": "这是多年以后，大约 1930 年前后。菲茨杰拉德已是酗酒缠身的名作家，妻子泽尔达刚经历第一次精神崩溃。他约海明威在这里吃午饭，说有一件比什么都重要的事要问：泽尔达说过一句关于他身体的话，把他彻底击垮了。",
+     "people": [
+      "hemingway",
+      "fitzgerald",
+      "zelda"
+     ],
+     "intro": "出自《流动的盛宴》第19章，《尺寸问题》。这是多年以后，大约 1930 年前后。菲茨杰拉德已是酗酒缠身的名作家，妻子泽尔达刚经历第一次精神崩溃。他约海明威在这里吃午饭，说有一件比什么都重要的事要问：泽尔达说过一句关于他身体的话，把他彻底击垮了。",
+     "introAudio": "audio/michaud-2-intro.m4a",
+     "durationSec": 230,
+     "introDurationSec": 24
+    }
+   ],
+   "chapter": 6,
+   "chapterTitle": "虚假的春天",
+   "englishQuoteOrAnchor": "So we walked up the rue des Saints-Pères to the corner of the rue",
+   "autoplay": true
+  },
+  {
+   "id": "brasserie-lipp",
+   "nameZh": "利普餐馆",
+   "canonicalName": "Brasserie Lipp",
+   "historicalName": "Brasserie Lipp",
+   "modernName": "Brasserie Lipp",
+   "historicalAddress": "151 boulevard Saint-Germain, Paris 6e",
+   "modernAddress": "151 boulevard Saint-Germain, 75006 Paris",
+   "lat": 48.853753,
+   "lng": 2.33241,
+   "radiusM": 30,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "仍在原址营业。啤酒、油浸土豆和香肠今天还能点到。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.8: 'It was a quick walk to Lipp's … The beer was very cold and wonderful to drink. The pommes à l'huile were firm and marinated…'"
+    },
+    {
+     "source": "Wikipedia — Brasserie Lipp",
+     "url": "https://en.wikipedia.org/wiki/Brasserie_Lipp",
+     "claim": "Located at 151 Boulevard Saint-Germain; featured prominently in A Moveable Feast."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "'Brasserie Lipp, 151 Boulevard Saint-Germain' → 48.853753, 2.33241"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "brasserie-lipp-1",
+     "title": "一大杯啤酒与遗失的手稿",
+     "chapter": 8,
+     "chapterTitle": "饥饿是有益的锻炼",
+     "chineseMatch": {
+      "chapter": 8,
+      "paragraphIds": [
+       "8-37",
+       "8-38",
+       "8-39",
+       "8-40",
+       "8-41",
+       "8-42",
+       "8-43",
+       "8-44",
+       "8-45",
+       "8-46"
+      ]
+     },
+     "paragraphs": [
+      "你该上利普餐馆！",
+      "我快步走去利普餐馆。每路过一处吃东西的地方，我的胃都随眼鼻而动，令我越走越高兴。餐馆里人挺少，我坐在靠墙凳上，背后是镜子，眼前是桌子，侍者问我要不要啤酒，我要了一升装的大杯啤酒，以及土豆色拉。",
+      "啤酒冰凉，喝来宜人。油酥土豆坚脆入味，橄榄油也喷香。我磨些黑胡椒在土豆上，用面包蘸濡了橄榄油。先来一大口啤酒，然后慢悠悠地吃喝。吃完之后，我又点了份油酥土豆，加了盘熏香肠。这香肠看去像法兰克福香肠对半劈的，覆着特制芥末酱。",
+      "我用面包将盘里的油和芥末酱蘸得干净，慢慢喝啤酒，到凉劲过去了，喝干这杯，再要了半杯，看酒倒入杯中，好像比上杯啤酒更凉。我喝了一半。",
+      "我不发愁了，我想。我知道自己写的小说挺好，将来美国总有人肯发表的。我不干报纸行当时，就认定自己的小说会被发表。但我寄出去的每一篇都被退回。我之前的自信之源是爱德华·奥布里恩将《我的老头子》收进了《最佳短篇小说选》，还将那年的集子题词献给我。我笑了，又喝了点啤酒。我那篇小说先前从未在杂志上发表过，奥布里恩却打破一切陈规，将它收进集子里。我又笑了，侍者瞥我一眼。好笑之处是，他如此抬举我，最后还是把我的名字拼错了。这是我作品全部遗失后仅剩两篇中的一篇。那次，哈德莉将我的手稿都放进手提箱，想带来洛桑山区给我个惊喜，让我得以在山区度假时写作，她将原稿、打字稿与复印稿全放进马尼拉纸文件夹里塞进箱子，然而手提箱在里昂车站被偷走了。这篇小说得以幸存，仅仅是因为林肯·斯蒂芬将它寄给了某编辑，之后被退稿了：我其他稿子被偷走时，它正在邮寄途中呢。我存下来的另一篇小说就是《在密歇根》，是斯泰因小姐来我家做客前写的，我从来没誊抄，因为斯泰因小姐说这篇不雅，我便放进某个抽屉了。",
+      "我们离开洛桑山区，下到意大利时，我将那篇赛马小说给奥布里恩看：他是个温柔羞涩的苍白男人，眼珠浅蓝，自己剪了个平整的发型。那时他寄居在拉帕罗山上的一处修道院。我那会儿正走背运，不觉得自己还能写出什么来，所以我将赛马小说给他看时出于一时兴起，就像你傻乎乎地将一艘莫名其妙沉掉的船上的罗盘箱给人看，或者车祸后被截肢的你拿起假肢穿上靴子来逗乐。但他读了那个小说后，我发现，他远比我难过。除了死亡与无法忍受的痛苦之外，我从没见过什么事让一个人如此难过。唯一的例外是哈德莉告诉我她丢了手提箱和其中的所有稿子时，她哭个不停，都说不清楚话了。我告诉她，再吓人的事也不至于说不出来，什么事都不要紧，别怕，我们会想出办法。她这才告诉了我。我确认她总不会把复印稿也一起带来，于是我雇了个人暂代我干报纸的活。我那会儿做记者还算赚钱，然后坐火车回巴黎。结果她确实把一切都丢了，我记得我回到公寓发现一切时，都做了什么。现在这一切当然过去了，钦克也教导了我，永远不要提已经失去的东西，于是我告诉奥布里恩，不要难过。也许我丢掉了早期作品还是好事，我还对他讲了些用以鼓舞军队士气的话。我说我要重新开始写小说，虽然当时只是说来哄哄他以免他难过，但我内心深知，我会这么做的。",
+      "坐在利普餐馆里，我开始想起遗失一切后，能重新开始写小说的时候。那是在科迪纳丹佩佐，我为了到莱茵兰和鲁尔去采访，不得不中断在那里的春季滑雪。我写了个非常简单的故事，《不合时宜》，我最后省略掉了老头儿上吊的结尾。我这点省略出于我的新理论：但凡你心里有数，确认删掉的部分能增强小说的感染力，令余味不尽，那你尽可以删掉小说的任何部分。",
+      "好吧，我想，现在我写出了这样的小说，可是人们看不懂，毫无疑问。几乎可以肯定，没人要我写的东西。不过，他们最后总会理解我的作品，就像他们理解绘画似的。只是需要时间和信心。",
+      "当你不得不削减食量时，就有必要做更好的自我调整，别老寻思肚子有多饿。饥饿是有益的磨炼，你能从中获益良多。其他人一天不弄明白这点，你就比他们高明。我现在负担不起规律的饮食，那就比他们高明多啦。如果他们缩小点跟我的差距，也不坏嘛。",
+      "我知道我必须写一部长篇小说。不过目下看来尚不可能，我仍在努力写些可能构成长篇小说的段落，但难度颇大。现在写长一点的短篇小说是挺必要的，就像练习长距离赛跑。我之前写过个长篇小说，就是在里昂站被偷的手稿之一，那时我还保有少年时期的抒情能力，但少年与青春一样稍纵即逝、虚无缥缈。我知道丢了那篇小说也许反而是好事，但我也知道，我必须写一个长篇小说。我可以按捺着，直到我自己忍不住必须写的时候。如果我为了吃饱饭，别无选择才不得不写一篇小说，那就完蛋了。我要累积压力。与此同时，我得先根据我最熟悉的题材写一个小说。"
+     ],
+     "chars": 1840,
+     "audio": "audio/brasserie-lipp-1.m4a",
+     "englishChapterTitle": "Hunger Was Good Discipline",
+     "englishAnchorStart": "Lipp's is where you are going to eat and drink too.",
+     "englishAnchorEnd": "I knew I must write a novel. But it seemed",
+     "englishParagraphs": [
+      37,
+      46
+     ],
+     "zhEnRatio": 0.29,
+     "needsReview": false,
+     "chapterLabel": "第8章",
+     "context": "紧接莎士比亚书店那一段：西尔维娅劝他去吃饭，他口袋里又刚有了稿费，于是快步走到这里。喝着啤酒，他想起 1922 年冬天的那场灾难：哈德莉带着他全部的手稿去瑞士找他，箱子在里昂车站被偷，几年的心血只剩下两篇。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "obrien"
+     ],
+     "intro": "出自《流动的盛宴》第8章，《饥饿是有益的锻炼》。紧接莎士比亚书店那一段：西尔维娅劝他去吃饭，他口袋里又刚有了稿费，于是快步走到这里。喝着啤酒，他想起 1922 年冬天的那场灾难：哈德莉带着他全部的手稿去瑞士找他，箱子在里昂车站被偷，几年的心血只剩下两篇。",
+     "introAudio": "audio/brasserie-lipp-1-intro.m4a",
+     "durationSec": 383,
+     "introDurationSec": 26
+    }
+   ],
+   "chapter": 8,
+   "chapterTitle": "饥饿是有益的锻炼",
+   "englishQuoteOrAnchor": "Lipp's is where you are going to eat and drink too.",
+   "autoplay": true
+  },
+  {
+   "id": "deux-magots",
+   "nameZh": "双叟咖啡馆",
+   "canonicalName": "Les Deux Magots",
+   "historicalName": "Café des Deux Magots",
+   "modernName": "Les Deux Magots",
+   "historicalAddress": "6 place Saint-Germain-des-Prés, Paris 6e",
+   "modernAddress": "6 place Saint-Germain-des-Prés, 75006 Paris",
+   "lat": 48.85402,
+   "lng": 2.33305,
+   "radiusM": 30,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "书里只有一小段发生在这里：与乔伊斯喝干雪利酒，谈起沃尔什许诺的那笔奖金。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.14: 'I met Joyce who was walking along the Boulevard St.-Germain after having been to a matinée alone … He asked me to have a drink with him and we went to the Deux-Magots and ordered dry sherry…'"
+    },
+    {
+     "source": "Wikipedia — Les Deux Magots",
+     "url": "https://en.wikipedia.org/wiki/Les_Deux_Magots",
+     "claim": "Lists A Moveable Feast among works featuring the café."
+    }
+   ],
+   "scenes": [
+    {
+     "id": "deux-magots-1",
+     "title": "与乔伊斯喝雪利酒",
+     "chapter": 14,
+     "chapterTitle": "被死神标记的人",
+     "chineseMatch": {
+      "chapter": 14,
+      "paragraphIds": [
+       "14-54",
+       "14-55",
+       "14-56",
+       "14-57",
+       "14-58",
+       "14-59",
+       "14-60",
+       "14-61",
+       "14-62",
+       "14-63"
+      ]
+     },
+     "paragraphs": [
+      "很久之后的一天，我遇到了刚看完日场戏，沿圣日耳曼大道溜达的乔伊斯。虽然他看不清演员们了，还是想听他们的声音。他要我去陪他喝一杯，我们去了双叟咖啡馆，要了干雪利酒，虽然你总是读到他只喝瑞士白葡萄酒。",
+      "“沃尔什怎样啦？”乔伊斯说。",
+      "“这混蛋，死活都一回事。”我说。",
+      "“他许诺你那笔奖金了吗？”乔伊斯问。",
+      "“许诺了。”",
+      "“我猜也是。”乔伊斯说。",
+      "“他也许诺你了吗？”",
+      "“是啊。”乔伊斯说。过了会儿，他问：“你猜他许诺了庞德没有？”",
+      "“我不知道。”",
+      "“最好别问他。”乔伊斯说。我们就不提这事了。我告诉乔伊斯，我如何在艾兹拉的工作室里初遇沃尔什和那两个貂皮女郎，乔伊斯听得津津有味。"
+     ],
+     "chars": 277,
+     "audio": "audio/deux-magots-1.m4a",
+     "englishChapterTitle": "The Man Who Was Marked for Death",
+     "englishAnchorStart": "One day, much later, I met Joyce who was walking along the Boulevard St.-Germain",
+     "englishAnchorEnd": "\"Best not to ask him,\" Joyce said. We left it",
+     "englishParagraphs": [
+      56,
+      65
+     ],
+     "zhEnRatio": 0.338,
+     "needsReview": false,
+     "chapterLabel": "第14章",
+     "context": "诗人沃尔什曾在一顿饭上郑重其事地暗示，要把自己杂志的一笔大奖颁给海明威。很久以后，海明威在这条大道上遇到乔伊斯，两人到这家咖啡馆坐下，才发现同一个许诺沃尔什不止对一个人说过。",
+     "people": [
+      "hemingway",
+      "joyce",
+      "walsh"
+     ],
+     "intro": "出自《流动的盛宴》第14章，《被死神标记的人》。诗人沃尔什曾在一顿饭上郑重其事地暗示，要把自己杂志的一笔大奖颁给海明威。很久以后，海明威在这条大道上遇到乔伊斯，两人到这家咖啡馆坐下，才发现同一个许诺沃尔什不止对一个人说过。",
+     "introAudio": "audio/deux-magots-1-intro.m4a",
+     "durationSec": 61,
+     "introDurationSec": 23
+    }
+   ],
+   "chapter": 14,
+   "chapterTitle": "被死神标记的人",
+   "englishQuoteOrAnchor": "One day, much later, I met Joyce who was walking along the Boulevard St.-Germain",
+   "autoplay": true
+  },
+  {
+   "id": "closerie-des-lilas",
+   "nameZh": "丁香园",
+   "canonicalName": "La Closerie des Lilas",
+   "historicalName": "La Closerie des Lilas (and the statue of Marshal Ney)",
+   "modernName": "La Closerie des Lilas",
+   "historicalAddress": "171 boulevard du Montparnasse, Paris 6e",
+   "modernAddress": "171 boulevard du Montparnasse, 75006 Paris",
+   "lat": 48.840092,
+   "lng": 2.335973,
+   "radiusM": 40,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "海明威的“家门口的咖啡馆”，全书出现最多的地点。内伊元帅像就在门外几步远。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.9: 'The Closerie des Lilas was the nearest good café when we lived in the flat over the sawmill at 113 rue Notre-Dame-des-Champs … with the tables under the shade of the trees on the side where the statue of Marshal Ney was.'"
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "La Closerie des Lilas, 171 boulevard du Montparnasse (6e)."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "171 Boulevard du Montparnasse → 48.840092, 2.335973; Statue du Maréchal Ney → 48.840036, 2.336345"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "closerie-des-lilas-1",
+     "title": "内伊元帅像下的一杯啤酒",
+     "chapter": 3,
+     "chapterTitle": "“迷惘的一代”",
+     "chineseMatch": {
+      "chapter": 3,
+      "paragraphIds": [
+       "3-34",
+       "3-35",
+       "3-36",
+       "3-37",
+       "3-38"
+      ]
+     },
+     "paragraphs": [
+      "之后，当我写作我第一部小说时，我试着从《圣经·传道书》里引了一句话，以对比斯泰因小姐从修理厂老板那里听来的话。但那天晚上，我踱回家时，想着修理厂那个小伙子，想那些汽车改成救护车时，他是否也被拉去开过车。我还记得满载伤员的汽车从山区公路驶下时，他们如何踩住刹车，刹车磨坏了便挂倒挡，我还记得最后那些车空载过山，好换几辆有金属刹车和上等手动变速器的大型菲亚特车来。我想着斯泰因小姐与舍伍德·安德森，想着自高自大与精神的懒惰，想着与此对立的严以律己，想着究竟谁在指责谁是迷惘的一代？我沿着山坡走向丁香园咖啡馆，灯光落在我的老朋友、那尊内伊将军铜雕塑上，军刀刺向前方，树叶投下阴影，他孤身在此，背后无人，他在滑铁卢遭遇了何等惨祸啊，我想，所有世代的人都为什么迷惘着，以前如此，以后亦如此，我在丁香园停步，好与雕像做伴，回到锯木场楼上的家里去前，喝上杯冰啤酒。然而，持酒坐看雕像时，我想到，法军从莫斯科撤退，拿破仑与科兰古坐马车奔驰而去，内伊率军殿后，且战且退时，奋战了多少个日子啊。我想到先前，斯泰因小姐是个何等温暖亲切的朋友，想到她谈起纪尧姆·阿波利奈尔过世时的言辞何等壮丽——阿波利奈尔死于1918年，一战停战协议签署之日，群众高呼“打倒威廉（纪尧姆）”时，昏迷中的阿波利奈尔还以为他们要打倒自己呢。我想我得尽我全力帮助她，尽力让她的卓越工作得到应有的承认，请上帝和米歇尔·内伊帮助我。但是，她那些什么“迷惘的一代”的鬼话，那些肮脏轻率的标签，还是都见鬼去吧。",
+      "我回家进庭院上楼，看到我妻子、我儿子和他的猫F. 普斯，都面带喜色，壁炉里还生着火。我对妻子说，“你知道，格特鲁德这人毕竟还不错。”",
+      "“当然了，塔蒂。”",
+      "“但她有时候也胡说八道。”",
+      "“我从不听她说话，”我妻子说，“我是个太太，我只跟她那个朋友说话。”"
+     ],
+     "chars": 750,
+     "audio": "audio/closerie-des-lilas-1.m4a",
+     "englishChapterTitle": "“Une Génération Perdue”",
+     "englishAnchorStart": "Later when I wrote my first novel I tried to balance Miss Stein's quotation",
+     "englishAnchorEnd": "\"I never hear her,\" my wife said. \"I'm a wife.",
+     "englishParagraphs": [
+      34,
+      37
+     ],
+     "zhEnRatio": 0.326,
+     "needsReview": false,
+     "chapterLabel": "第3章",
+     "context": "紧接斯泰因那句“你们是迷惘的一代”。海明威从她家出来，走回锯木厂楼上的家，路过丁香园门口的内伊元帅铜像，停下来喝了一杯啤酒，想着这位元帅，也想着斯泰因的话到底对不对。",
+     "people": [
+      "hemingway",
+      "stein",
+      "ney",
+      "hadley"
+     ],
+     "intro": "出自《流动的盛宴》第3章，《迷惘的一代》。紧接斯泰因那句“你们是迷惘的一代”。海明威从她家出来，走回锯木厂楼上的家，路过丁香园门口的内伊元帅铜像，停下来喝了一杯啤酒，想着这位元帅，也想着斯泰因的话到底对不对。",
+     "introAudio": "audio/closerie-des-lilas-1-intro.m4a",
+     "durationSec": 155,
+     "introDurationSec": 20
+    },
+    {
+     "id": "closerie-des-lilas-2",
+     "title": "最近的好咖啡馆",
+     "chapter": 9,
+     "chapterTitle": "福特·麦多克斯·福特与魔鬼的门徒",
+     "chineseMatch": {
+      "chapter": 9,
+      "paragraphIds": [
+       "9-1",
+       "9-2",
+       "9-3",
+       "9-4",
+       "9-5"
+      ]
+     },
+     "paragraphs": [
+      "我们住在香圣母院路113号锯木场楼上公寓，丁香园是最近的一家上等咖啡馆，巴黎最好的咖啡馆之一。冬天此处室内温暖，春秋两季坐在露天咖啡桌也宜人，咖啡桌放在内伊元帅塑像边的树荫里，也可以坐在林荫大道边宽篷下的方桌旁。店里有两位侍者是我们的好朋友。穹顶咖啡馆与圆亭咖啡馆的富豪们从不来丁香园。他们在这里不认识人，来了也没人盯着他们看。那些年，许多人故意到蒙帕纳斯大道或哈斯帕伊街角的咖啡馆来抛头露面，从某方面说，这些地方是靠被记者逮住写报导而名扬后世的。",
+      "丁香园曾是诗人们定期聚会的咖啡馆，最后一批诗人的核心人物是保尔·福尔，我从未读过他的诗。我在丁香园只见过一位诗人：布莱斯·桑德拉尔，一张被打坏的拳击手式脸孔，一只空荡荡的袖子用别针固定，用一只好手卷烟卷。他只要不喝多，就挺好相处，那会儿他哪怕撒谎，都比其他认真讲故事的人要有趣。但他是那些日子里仅有的一个来丁香园的诗人，我也只在那里见过他一次。大多数的客人都是蓄须的老人，衣冠楚楚，携来的不是妻子便是情妇，翻领上或挂或不挂细长的红色荣誉绶带。我们想他们多半都是科学家或学者，但他们买一瓶开胃酒就坐着不走，泡在咖啡馆里的时间，不下那些身着旧衣、叫杯奶油咖啡占座不走的人。后者们也带着妻子或情妇，佩着学院的紫绶带，但与法兰西学院毫不相干。我们猜后者多半是教授或讲师。",
+      "有这些人在，咖啡馆便让人舒服了：他们喜欢彼此聊天，也爱喝酒、茶与咖啡，爱看报架上的报纸杂志。没人刻意自炫身份。",
+      "也有其他住在这一区的，来到丁香园咖啡，有几个在翻领上别着一战十字勋章，另有人挂着黄绿二色军功章。我打量他们，观察他们克服伤残造成的不便，观察人造眼球的好坏，观察整容修复的结果，如果医术高明的话，看起来像一条打理紧实的滑雪道。我们敬重他们，胜过敬重那些学者与教授：学者与教授也可能在军队服过役，但他们没经历过截肢。",
+      "那些日子里，我们不信赖没参加过一战的人，但我们也不完全信赖任何人。我觉得，桑德拉尔对待他那只伤手完全可以低调点。他午后早早来到丁香园，老客人都没来，我觉得这还好些。"
+     ],
+     "chars": 848,
+     "audio": "audio/closerie-des-lilas-2.m4a",
+     "englishChapterTitle": "Ford Madox Ford and the Devil’s Disciple",
+     "englishAnchorStart": "The Closerie des Lilas was the nearest good café when we lived in the",
+     "englishAnchorEnd": "In those days we did not trust anyone who had",
+     "englishParagraphs": [
+      1,
+      5
+     ],
+     "zhEnRatio": 0.267,
+     "needsReview": false,
+     "chapterLabel": "第9章",
+     "context": "1924 年海明威一家搬到附近的锯木厂楼上，丁香园就成了他每天写作的地方。这一段是他给这家咖啡馆画的像：老诗人、蓄须的教授，还有胸前别着勋章、在一战里受了伤的人。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第9章，《福特·麦多克斯·福特与魔鬼的门徒》。1924 年海明威一家搬到附近的锯木厂楼上，丁香园就成了他每天写作的地方。这一段是他给这家咖啡馆画的像：老诗人、蓄须的教授，还有胸前别着勋章、在一战里受了伤的人。",
+     "introAudio": "audio/closerie-des-lilas-2-intro.m4a",
+     "durationSec": 173,
+     "introDurationSec": 23
+    },
+    {
+     "id": "closerie-des-lilas-3",
+     "title": "蓝皮笔记本与不速之客",
+     "chapter": 10,
+     "chapterTitle": "一个新流派的诞生",
+     "chineseMatch": {
+      "chapter": 10,
+      "paragraphIds": [
+       "10-1",
+       "10-2",
+       "10-3",
+       "10-4",
+       "10-5",
+       "10-6",
+       "10-7",
+       "10-8",
+       "10-9",
+       "10-10"
+      ]
+     },
+     "paragraphs": [
+      "几本蓝封面笔记本，两支铅笔，卷笔刀（用小刀削太浪费了），一张大理石桌子，清晨的空气，扫地擦地，还有运气——这就是你所需的全部。为了走运，你在右边衣袋里放一根七叶树枝和一条兔子腿。兔子腿上的毛已被磨掉，骨头与跟腱都磨光了。兔爪钩住你的衣袋衬里，你就知道你的运气还在。",
+      "有些日子过得太顺利，你写活了笔下的乡村，简直可以步行其中，穿过丛林，经过开阔地，上高坡，眺望湖湾后的山峰。铅笔尖可能忽然在卷笔刀刀口折断了，你用小刀刀尖或用锋利的刀刃细心削尖了铅笔，然后你仿佛又回到小说里：胳膊套进汗津津的皮背带，背起背包，伸进另一只胳膊，觉得背包的重量压在背上，向湖边走去时，感到软底鞋下的松针。",
+      "然后你会听见谁说了声：“嗨，海姆，你在这里做什么呢？在咖啡馆写东西？”",
+      "你的好运用光了，你合上笔记本。这种事最糟了。如果你控制住脾气，还会好些；但我可不擅长这个，于是我说：“你个婊子养的，不去干你那些破事，跑来这里干吗？”",
+      "“别为了显得乖张就大放厥词。”",
+      "“带着你的臭嘴滚！”",
+      "“这是公共咖啡馆。我和你一样有权待在这里。”",
+      "“你干吗不直接去小茅屋咖啡馆？你属于那儿。”",
+      "“哎天哪，你别这么烦人。”",
+      "这时你可以起身出门，希望这只是偶然被撞上，来客只是偶然闯入，以后不会遇到类似事了。还有其他的咖啡馆可供你写作，但要走好长一段路，这地方可是我的主场咖啡馆。被逼出丁香园可真是糟糕。我得站起来或者走人。也许走人更明智一点，但怒火开始升起了，于是我说：“听着，你这样的狗崽子有的是地方可去。你为什么非得来这儿，熏臭一家好好的咖啡馆呢？”"
+     ],
+     "chars": 646,
+     "audio": "audio/closerie-des-lilas-3.m4a",
+     "englishChapterTitle": "Birth of a New School",
+     "englishAnchorStart": "The blue-backed notebooks, the two pencils and the pencil sharpener (a pocket knife was",
+     "englishAnchorEnd": "Now you could get out and hope it was an",
+     "englishParagraphs": [
+      1,
+      10
+     ],
+     "zhEnRatio": 0.283,
+     "needsReview": false,
+     "chapterLabel": "第10章",
+     "context": "海明威每天早晨带着笔记本和铅笔来这里写小说，最怕有人打断。这一段先写他写得顺手时的状态，再写一个不识趣的熟人找上门来搭话——他承认自己不擅长控制脾气，开口就骂了回去。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第10章，《一个新流派的诞生》。海明威每天早晨带着笔记本和铅笔来这里写小说，最怕有人打断。这一段先写他写得顺手时的状态，再写一个不识趣的熟人找上门来搭话——他承认自己不擅长控制脾气，开口就骂了回去。",
+     "introAudio": "audio/closerie-des-lilas-3-intro.m4a",
+     "durationSec": 135,
+     "introDurationSec": 22
+    },
+    {
+     "id": "closerie-des-lilas-4",
+     "title": "与斯科特在露台上",
+     "chapter": 17,
+     "chapterTitle": "斯科特·菲茨杰拉德",
+     "chineseMatch": {
+      "chapter": 17,
+      "paragraphIds": [
+       "17-42",
+       "17-43",
+       "17-44",
+       "17-45"
+      ]
+     },
+     "paragraphs": [
+      "我放弃了，他问我为什么喜欢丁香园咖啡，我告诉他一些老年间的掌故，他也开始显得喜欢这里了。我们坐着，我喜欢这里，他老说他也喜欢，他又问了我些问题，还跟我讲述作家、出版商、代理人、批评家和乔治·霍勒斯·洛利默的事，还讲了成功作家的逸闻琐事和经济状况，他愤世嫉俗、有趣、欢快、迷人又殷勤——哪怕你平时很警惕殷勤，这时也难免不被他感染。他说起自己以往的作品时颇为小看，但口气里并无苦涩之感，我于是知道了他一定觉得自己的新书不错，所以他谈起以往写的书所犯的错误，并不痛心疾首。他要我读他的新书，《了不起的盖茨比》，但得等他把自己仅存的一本从别人手头要回来。只听他谈论，你无从知道这本书有多好。所有谦虚的作家在写出卓越作品时，都有这种羞怯之态，于是我希望他尽快拿回书来，我就可以读了。",
+      "斯科特告诉我，他听麦克斯韦尔·帕金斯说这本书销量不好，但评论界反响颇佳。我不记得是这天还是之后了，他给我看了吉尔伯特·赛尔德斯的评论，写得没法再好了——大概只有吉尔伯特·赛尔德斯自我提高才能写得再好些。斯科特之后因为书卖得不好，颇有点迷惑，有点刺痛，但如我所说，那会儿他并不苦涩，他为那本书的高质量感到羞涩又高兴。",
+      "这天我们坐在丁香园外头，看黄昏降临，人们穿行过人行道，灰色暮霭变换。我们喝了两杯苏打水兑威士忌，但他没发病。我仔细观察，但确实没发作，他也未曾提出没皮没脸的问题。他没做任何令人尴尬的事，没发表演说，举动全然像个聪慧又热情的正常人。",
+      "他告诉我，他和泽尔达，他的妻子，之前旅游时遭遇恶劣天气，只得将租赁的雷诺车停在了里昂，他问我是否可以陪他坐火车去里昂，把车开回巴黎来。菲茨杰拉德夫妇租了套带家具的公寓房，就在离星形广场（凯旋门）不远的提尔西特路14号。这时是暮春时节，我想乡间风景正在鼎盛，我们可以好好游一程。斯科特看来又和善又讲理，我还看着他结结实实喝了两杯威士忌，也没出事，他的热情与理智还让我觉得，在“澳洲犬”那晚上就像个噩梦。于是我说，我可以陪他去里昂，问他何时出发。"
+     ],
+     "chars": 829,
+     "audio": "audio/closerie-des-lilas-4.m4a",
+     "englishChapterTitle": "Scott Fitzgerald",
+     "englishAnchorStart": "I gave up then and he asked me why I liked this café and",
+     "englishAnchorEnd": "He told me that he and Zelda, his wife, had",
+     "englishParagraphs": [
+      42,
+      45
+     ],
+     "zhEnRatio": 0.304,
+     "needsReview": false,
+     "chapterLabel": "第17章",
+     "context": "1925 年春天，海明威在“澳洲犬”酒吧初识菲茨杰拉德，那晚对方喝到失态。几天后两人在这里的露台上再见面，菲茨杰拉德却像什么都没发生过。他刚出版《了不起的盖茨比》，邀海明威一起去里昂，把他丢在那里的汽车开回来。",
+     "people": [
+      "hemingway",
+      "fitzgerald",
+      "zelda"
+     ],
+     "intro": "出自《流动的盛宴》第17章，《斯科特·菲茨杰拉德》。1925 年春天，海明威在“澳洲犬”酒吧初识菲茨杰拉德，那晚对方喝到失态。几天后两人在这里的露台上再见面，菲茨杰拉德却像什么都没发生过。他刚出版《了不起的盖茨比》，邀海明威一起去里昂，把他丢在那里的汽车开回来。",
+     "introAudio": "audio/closerie-des-lilas-4-intro.m4a",
+     "durationSec": 169,
+     "introDurationSec": 26
+    }
+   ],
+   "chapter": 3,
+   "chapterTitle": "“迷惘的一代”",
+   "englishQuoteOrAnchor": "Later when I wrote my first novel I tried to balance Miss Stein's quotation",
+   "autoplay": true
+  },
+  {
+   "id": "113-notre-dame-des-champs",
+   "nameZh": "锯木厂楼上的公寓（香圣母院路113号）",
+   "canonicalName": "113 rue Notre-Dame-des-Champs",
+   "historicalName": "Flat over the sawmill",
+   "modernName": "Site now part of the École Alsacienne (building gone)",
+   "historicalAddress": "113 rue Notre-Dame-des-Champs, Paris 6e",
+   "modernAddress": "113 rue Notre-Dame-des-Champs, 75006 Paris",
+   "lat": 48.840871,
+   "lng": 2.334273,
+   "radiusM": 30,
+   "status": "demolished",
+   "confidence": "HIGH",
+   "note": "1924 年起的家。原来的房子和锯木厂都已拆除，地块并入了阿尔萨斯学校，现场看不到任何旧物。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.9: 'the flat over the sawmill at 113 rue Notre-Dame-des-Champs'."
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "113, rue Notre-Dame-des-Champs (6e): where Hemingway moved his family in 1924."
+    },
+    {
+     "source": "PBS — Michael Palin's Hemingway Adventure, Paris walk 3",
+     "url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+     "claim": "113 rue Notre-Dame-des-Champs is now part of the École Alsacienne school building."
+    },
+    {
+     "source": "Wikipédia (fr) — Rue Notre-Dame-des-Champs",
+     "url": "https://fr.wikipedia.org/wiki/Rue_Notre-Dame-des-Champs",
+     "claim": "No 113 : Ernest Hemingway de 1924 à 1926."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "113 Rue Notre-Dame-des-Champs → 48.840871, 2.334273"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "113-notre-dame-des-champs-1",
+     "title": "锯木厂主的妻子",
+     "chapter": 15,
+     "chapterTitle": "埃文·希普曼在丁香园",
+     "chineseMatch": {
+      "chapter": 15,
+      "paragraphIds": [
+       "15-8",
+       "15-9",
+       "15-10",
+       "15-11",
+       "15-12",
+       "15-13"
+      ]
+     },
+     "paragraphs": [
+      "之后我离开艾兹拉的工作室，沿街走到锯木厂时，向前看到街两边都是高楼，街道彼端是秃树，圣米歇尔大街宽阔的另一侧，是比利埃舞厅正门。我推开锯木厂大门进去，经过新锯的木板堆，将网球拍挂上楼梯旁的夹子。我在通向顶层阁楼的地方喊了一嗓子，没人在。",
+      "“太太出去了，保姆和孩子也走了。”锯木厂主的妻子告诉我。她是个黄发肥硕的女人，挺难相处。我谢了她。",
+      "“有个年轻人要见你。”她说，用了法语的“年轻人”，而不称“先生”。“他说他会在丁香园等你。”",
+      "“非常感谢。”我说，“如果太太回来，请告诉她我在丁香园。”",
+      "“她跟朋友出门了。”厂主太太说着，提了提紫色衬衣，蹬着高跟鞋回到她自己的领地，门都不关。",
+      "我走到街上，站在高大、白色但斑斑点点的建筑物间。我走到阳光灿烂的街尽头，右拐走进了丁香园咖啡馆：这里阳光幽弱得多。"
+     ],
+     "chars": 343,
+     "audio": "audio/113-notre-dame-des-champs-1.m4a",
+     "englishChapterTitle": "Evan Shipman at the Lilas",
+     "englishAnchorStart": "Later after leaving Ezra's studio and walking along the street to the sawmill, looking",
+     "englishAnchorEnd": "I walked down the street between the high, stained and",
+     "englishParagraphs": [
+      8,
+      13
+     ],
+     "zhEnRatio": 0.288,
+     "needsReview": false,
+     "chapterLabel": "第15章",
+     "context": "1924 年起海明威一家住在这里：院子里是一家锯木厂，他们住楼上。这天他从同一条街上庞德的工作室走回来，房东太太告诉他有个年轻人来找过他。那是诗人埃文·希普曼，正在丁香园等他。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "pound",
+      "shipman"
+     ],
+     "intro": "出自《流动的盛宴》第15章，《埃文·希普曼在丁香园》。1924 年起海明威一家住在这里：院子里是一家锯木厂，他们住楼上。这天他从同一条街上庞德的工作室走回来，房东太太告诉他有个年轻人来找过他。那是诗人埃文·希普曼，正在丁香园等他。",
+     "introAudio": "audio/113-notre-dame-des-champs-1-intro.m4a",
+     "durationSec": 73,
+     "introDurationSec": 23
+    },
+    {
+     "id": "113-notre-dame-des-champs-2",
+     "title": "斯科特带着女儿进门",
+     "chapter": 18,
+     "chapterTitle": "鹰不分享",
+     "chineseMatch": {
+      "chapter": 18,
+      "paragraphIds": [
+       "18-20",
+       "18-21"
+      ]
+     },
+     "paragraphs": [
+      "有一次他带着小女儿进了锯木厂的门——那天他的英国保姆休息，斯科特照顾孩子——就在楼梯脚，小姑娘告诉爸爸，她要去上洗手间。斯科特开始解她裤子，住在我们楼下的房东过去说，“先生，厕所在前面楼梯左边。”",
+      "“知道，如果你不小心点，我把你的头一起塞进去。”斯科特说。"
+     ],
+     "chars": 127,
+     "audio": "audio/113-notre-dame-des-champs-2.m4a",
+     "englishChapterTitle": "Hawks Do Not Share",
+     "englishAnchorStart": "One time he came in through the sawmill gate with his small daughter—it was",
+     "englishAnchorEnd": "\"Yes, and I'll put your head in it too, if",
+     "englishParagraphs": [
+      21,
+      22
+     ],
+     "zhEnRatio": 0.263,
+     "needsReview": false,
+     "chapterLabel": "第18章",
+     "context": "1925 年，菲茨杰拉德常不打招呼就找上门来，有时已经喝了酒。这是其中一次，他带着年幼的女儿。",
+     "people": [
+      "hemingway",
+      "fitzgerald"
+     ],
+     "intro": "出自《流动的盛宴》第18章，《鹰不分享》。1925 年，菲茨杰拉德常不打招呼就找上门来，有时已经喝了酒。这是其中一次，他带着年幼的女儿。",
+     "introAudio": "audio/113-notre-dame-des-champs-2-intro.m4a",
+     "durationSec": 26,
+     "introDurationSec": 14
+    }
+   ],
+   "chapter": 15,
+   "chapterTitle": "埃文·希普曼在丁香园",
+   "englishQuoteOrAnchor": "Later after leaving Ezra's studio and walking along the street to the sawmill, looking",
+   "autoplay": true
+  },
+  {
+   "id": "pound-studio",
+   "nameZh": "艾兹拉·庞德的工作室",
+   "canonicalName": "Ezra Pound's studio",
+   "historicalName": "70 bis rue Notre-Dame-des-Champs",
+   "modernName": "70 bis rue Notre-Dame-des-Champs",
+   "historicalAddress": "70 bis rue Notre-Dame-des-Champs, Paris 6e",
+   "modernAddress": "70 bis rue Notre-Dame-des-Champs, 75006 Paris",
+   "lat": 48.8428935,
+   "lng": 2.3314503,
+   "radiusM": 30,
+   "status": "extant",
+   "confidence": "MEDIUM",
+   "note": "原文只写了街名，没有门牌；70 bis 来自外部资料（且有的写作 70）。工作室在院子深处，街上看不到，所以标为 MEDIUM。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.12: 'The studio where he lived with his wife Dorothy on the rue Notre-Dame-des-Champs was as poor as Gertrude Stein's studio was rich.'"
+    },
+    {
+     "source": "PBS — Michael Palin's Hemingway Adventure, Paris walk 3",
+     "url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+     "claim": "Ezra Pound's residence: 70 rue Notre-Dame-des-Champs."
+    },
+    {
+     "source": "Adequatica — Hemingway in Paris (annotated location list, secondary)",
+     "url": "https://adequatica.substack.com/p/hemingway-in-paris",
+     "claim": "Pound lived at 70 (bis) rue Notre-Dame-des-Champs 1921–1924; building survives."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "70 Rue Notre-Dame-des-Champs → 48.8428935, 2.3314503"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "pound-studio-1",
+     "title": "教艾兹拉打拳，温德姆·刘易斯在看",
+     "chapter": 12,
+     "chapterTitle": "艾兹拉·庞德与他的文人会",
+     "chineseMatch": {
+      "chapter": 12,
+      "paragraphIds": [
+       "12-1",
+       "12-2",
+       "12-3",
+       "12-4",
+       "12-5",
+       "12-6",
+       "12-7",
+       "12-8",
+       "12-9"
+      ]
+     },
+     "paragraphs": [
+      "艾兹拉·庞德从来很够朋友，总是与人为善。他与他妻子多罗茜在香圣母院路的居所之穷愁，与格特鲁德·斯泰因的工作室之豪奢，简直相映成趣。那地方采光不错，靠炉子取暖，墙上挂着的画，出自与艾兹拉相熟的日本艺术家手笔。那些艺术家都是日本贵族，长发乌黑闪亮，鞠躬时甩到前面，我对此印象深刻，只是不喜欢他们的画。我看不懂，也不觉得其中有深文奥义；到我看懂时，又觉得毫无意义。我很遗憾，却无能为力。",
+      "多罗茜的画我倒喜欢得很，我还觉得多罗茜本人容貌漂亮，身材优美。我也喜欢戈蒂耶—布尔泽斯卡雕塑的艾兹拉头像，也喜欢这位雕塑家作品的照片。艾兹拉拿了那些照片给我看，附在了艾兹拉撰写的一本介绍戈蒂耶的书里。艾兹拉还喜欢皮卡比亚的画，但那时我觉得那玩意一文不值。我也讨厌温德姆·刘易斯的画，艾兹拉却喜欢得很。他喜欢自己朋友们的作品，作为朋友来说这么做很够交情，但以友情来评断作品优劣却不大好了。我们从不就此争执，因为我总对不喜欢的东西缄口不言。我想，如果一个人喜欢他朋友的绘画或文字，就像另一些人喜欢自己的家庭似的：对此置评颇为无礼。有时为了不去指责自家人或妻子婆家人，你得忍耐许久；但对付拙劣的画家就简单多啦：你闭眼不看就是了，反正他们同自家人不同，不会仗着亲属关系就做坏事。对家里人却不同，你即便不看不听不回信，他们还是能在许多方面伤害到你。艾兹拉待别人比我仁厚许多。他自己那些作品，写得到位时，如此完美无缺；他自己犯了错，又如此诚恳，对自己的错误见解又执着，待人又如此亲切，这一切令他在我心中成就了一个圣人形象。他性子焦躁，但许多圣人大概也都如此。",
+      "艾兹拉要我教他拳击，那天黄昏我们正在他工作室练习，我初次遇到了温德姆·刘易斯。艾兹拉练拳击不久，若让他在熟人面前吃亏我会觉得不堪，于是我尽力让他出风头。但效果不好，因为他原懂得击剑，我当时正教他将左手也用进拳击中，让他保持左脚在前，右脚跟上，保持平行。这是基本步伐。我一直没教会他左勾拳。教会他缩短右手出拳幅度，也是后来的事了。",
+      "温德姆·刘易斯俨然这一带的大人物似的，戴顶黑色宽帽，穿得像歌剧《波西米亚人》里钻出来的人。他的脸让我想起青蛙，不是牛蛙，就一般的青蛙，巴黎这个水塘对他而言太大了。那时节我们相信，任何作家和画家都能穿他们自己的衣服，艺术家没有标准制服。但刘易斯穿了件一战前的艺术家制服。他那样子让人难堪。他摆出傲慢的神情，看我闪过艾兹拉的左手刺拳，或是用右手套隔挡。",
+      "我想停下来，但刘易斯坚持要我们继续打。我看得出来，他对境况一无所知，他在等着看，希望艾兹拉会受伤。然而什么都没发生。我并不反击，只让艾兹拉追打我，坚持用左手出拳，追加一些右手拳，然后说我们打够啦，拿罐水来冲洗净，用毛巾擦干，穿上运动衫。",
+      "我们喝了点东西，我就听艾兹拉和刘易斯谈论伦敦和纽约的人们。我佯装漫不经心地仔细端详刘易斯，就像拳击时用的技巧。我觉得我再没见过比他难看的人了。有些人的邪恶看脸便能得知，就像名种赛马容易看出好血统。他们讨厌得像硬下疳。刘易斯倒没流露出邪恶，就是难看。",
+      "回家路上我尽力寻思，他让我想起了什么呢？我想到了各色词汇，除了泥腿子外，都是医学用词。我试图分析描述他的脸，但我只能记得他的眼睛。黑色帽子下方，我第一眼看到，就觉得像是未遂强奸犯的眼睛。",
+      "“我今天见了个最难看的家伙。”我对我妻子说。",
+      "“塔蒂，别跟我谈他。”她说，“请别跟我谈论他。我们都要开饭啦。”"
+     ],
+     "chars": 1390,
+     "audio": "audio/pound-studio-1.m4a",
+     "englishChapterTitle": "Ezra Pound and His Bel Esprit",
+     "englishAnchorStart": "Ezra Pound was always a good friend and he was always doing things for",
+     "englishAnchorEnd": "\"Tatie, don't tell me about him,\" she said. \"Please don't",
+     "englishParagraphs": [
+      1,
+      9
+     ],
+     "zhEnRatio": 0.297,
+     "needsReview": false,
+     "chapterLabel": "第12章",
+     "context": "诗人庞德和妻子多罗茜就住在这条街上，离海明威家几分钟路。庞德想学拳击，海明威来教他。这天傍晚，庞德的英国朋友、画家温德姆·刘易斯也在场，站在一旁看。",
+     "people": [
+      "hemingway",
+      "pound",
+      "lewis",
+      "hadley",
+      "stein"
+     ],
+     "intro": "出自《流动的盛宴》第12章，《艾兹拉·庞德与他的文人会》。诗人庞德和妻子多罗茜就住在这条街上，离海明威家几分钟路。庞德想学拳击，海明威来教他。这天傍晚，庞德的英国朋友、画家温德姆·刘易斯也在场，站在一旁看。",
+     "introAudio": "audio/pound-studio-1-intro.m4a",
+     "durationSec": 294,
+     "introDurationSec": 22
+    }
+   ],
+   "chapter": 12,
+   "chapterTitle": "艾兹拉·庞德与他的文人会",
+   "englishQuoteOrAnchor": "Ezra Pound was always a good friend and he was always doing things for",
+   "autoplay": true
+  },
+  {
+   "id": "negre-de-toulouse",
+   "nameZh": "图卢兹黑人饭店",
+   "canonicalName": "Le Nègre de Toulouse",
+   "historicalName": "Le Nègre de Toulouse (M. Lavigne)",
+   "modernName": "159 boulevard du Montparnasse (restaurant gone)",
+   "historicalAddress": "157–159 boulevard du Montparnasse, Paris 6e",
+   "modernAddress": "159 boulevard du Montparnasse, 75006 Paris",
+   "lat": 48.840476,
+   "lng": 2.334812,
+   "radiusM": 30,
+   "status": "closed",
+   "confidence": "MEDIUM",
+   "note": "原文写明它在蒙帕纳斯大道上、从锯木厂出来经过面包店后门就到；门牌 157 还是 159 各家资料不一致，但两者相邻，误差只有十来米。饭店早已不存在。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.11: 'went into the back door of the bakery that fronted on the Boulevard Montparnasse … I walked in the early dusk up the street and stopped outside the terrace of the Nègre de Toulouse restaurant where our red and white checkered napkins were in the wooden napkin rings'"
+    },
+    {
+     "source": "Adequatica — Hemingway in Paris (annotated location list, secondary)",
+     "url": "https://adequatica.substack.com/p/hemingway-in-paris",
+     "claim": "Nègre de Toulouse: 159 boulevard du Montparnasse; proprietors M. and Mme Lavigne."
+    },
+    {
+     "source": "PBS — Michael Palin's Hemingway Adventure, Paris walk 3",
+     "url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+     "claim": "Gives 159 boulevard du Montparnasse as the former Hôtel Venitia — i.e. the exact number is not agreed between sources."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "159 Boulevard du Montparnasse → 48.840476, 2.334812"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "negre-de-toulouse-1",
+     "title": "穿过面包店，经过饭店露台",
+     "chapter": 11,
+     "chapterTitle": "与帕辛在穹顶咖啡馆",
+     "chineseMatch": {
+      "chapter": 11,
+      "paragraphIds": [
+       "11-1",
+       "11-2",
+       "11-3",
+       "11-4",
+       "11-5",
+       "11-6",
+       "11-7",
+       "11-8",
+       "11-9",
+       "11-10"
+      ]
+     },
+     "paragraphs": [
+      "一个美好的傍晚，我写作了一整天后，从锯木厂上的公寓下来，穿过木材堆，出了院子，关了门，过了街，走进面包店后门，在烤炉里新烤面包的香味中穿过店堂，出得前门，踏上蒙帕纳斯大道。面包店已经上灯，外面已是白昼尽时，我在朦胧夜色中沿街而行，到图卢兹黑人饭店门前停步：餐巾架上木制的餐巾圈里挂着一条条红白方格餐巾，等着我们进去用餐。我读了紫色墨印的菜单，看到当日例菜是法式炖菜。我读到菜名便觉得饿了。",
+      "饭店老板拉维涅先生问我写得如何，我答说很是顺利。他说他先前看见我一早便在丁香园咖啡馆的门廊上写作，他没来跟我说话，因为我写得正忙。",
+      "“你有种丛林中孤独男子的气质。”他说。",
+      "“我工作时像头瞎了眼的猪。”",
+      "“但是先生，你不是在丛林里么？”",
+      "“在灌木丛里。”我说。",
+      "我沿街前行，看看橱窗，看春夜里人们经过，心情愉快。经过三家大咖啡馆时，我看见有几个人看着面熟，有几个人说过话。然而，街上总有些我不认识、看去漂亮得多的人们，在华灯初上的夜晚，急匆匆赶去相聚吃喝，然后做爱。大咖啡馆里那些人也许做着同样的事，或者他们就是坐着喝咖啡聊天，乐意让别人看见。我没遇到我喜欢的那些人，他们爱去大咖啡馆，好消失在人群里，不引起注意，得以在人群中自得其乐。那时代的大咖啡馆也较便宜，都供应上好啤酒，开胃饮料价格也合理，标在端来的碟子上。",
+      "在这样的夜晚，我想着这些正经但不算新异的念头，感到自己大获全胜：我克制了去赌马的强烈欲望，努力写作了一天，挺顺利。这段时间我没钱去赌马，即便花点力气挣来钱也不行。当时还没到用化验唾液来检查马是否服了兴奋剂的时代，因此兴奋剂的使用非常普遍。然而，花时间去琢磨服用兴奋剂的马匹利弊如何，到赛马场搜寻赛马服用兴奋剂的蛛丝马迹，靠直觉甚至幻觉来筹谋对策，最后用那点你输不起的钱孤注一掷？这可不是一个年轻人，一个养活妻儿，还要花全部时间学习写作的年轻人该做的事。",
+      "无论用何种标准看，我们都还很穷，我还是得省这些小钱，比如哄家里说有人请我吃午饭，然后到卢森堡公园去晃荡两小时，回去对妻子描述午饭吃得多么丰盛。当你25岁，且又天生着一副重量级选手的身材，少吃一顿饭都让你饿得很。但饥饿也能磨砺你的感官。我发现我笔下许多人物都是胃口好、讲究吃、渴望吃的人物，他们大多数还渴望着喝一杯呢。",
+      "在图卢兹黑人饭店，我们喝上好的卡奥葡萄酒时，一般都买一瓶、半瓶或四分之一瓶，掺上三分之一的水。在锯木厂楼上的家中，我们藏了一瓶科西嘉葡萄酒，牌子响亮，价格低廉。这是一瓶很有科西嘉风味的酒，你掺上一半的水，依然能领略到浓郁的风味。在那时的巴黎，你餐风饮露都能活下去；如果时不时略过顿午饭，从来不买新衣服，你还能省出点钱来奢侈一把呢。"
+     ],
+     "chars": 1095,
+     "audio": "audio/negre-de-toulouse-1.m4a",
+     "englishChapterTitle": "With Pascin at the Dome",
+     "englishAnchorStart": "It was a lovely evening and I had worked hard all day and left",
+     "englishAnchorEnd": "At the Nègre de Toulouse we drank the good Cahors",
+     "englishParagraphs": [
+      1,
+      10
+     ],
+     "zhEnRatio": 0.277,
+     "needsReview": false,
+     "chapterLabel": "第11章",
+     "context": "一个春天的傍晚，海明威写了一整天，从锯木厂楼上的家出来散步，心情很好。他刚戒掉赌赛马，觉得自己颇有德行。这家饭店是他们一家常吃晚饭的地方，餐巾都存在店里。",
+     "people": [
+      "hemingway",
+      "lavigne"
+     ],
+     "intro": "出自《流动的盛宴》第11章，《与帕辛在穹顶咖啡馆》。一个春天的傍晚，海明威写了一整天，从锯木厂楼上的家出来散步，心情很好。他刚戒掉赌赛马，觉得自己颇有德行。这家饭店是他们一家常吃晚饭的地方，餐巾都存在店里。",
+     "introAudio": "audio/negre-de-toulouse-1-intro.m4a",
+     "durationSec": 224,
+     "introDurationSec": 21
+    }
+   ],
+   "chapter": 11,
+   "chapterTitle": "与帕辛在穹顶咖啡馆",
+   "englishQuoteOrAnchor": "It was a lovely evening and I had worked hard all day and left",
+   "autoplay": true
+  },
+  {
+   "id": "le-dome",
+   "nameZh": "穹顶咖啡馆",
+   "canonicalName": "Le Dôme",
+   "historicalName": "Café du Dôme",
+   "modernName": "Le Dôme",
+   "historicalAddress": "108 boulevard du Montparnasse, Paris 14e",
+   "modernAddress": "108 boulevard du Montparnasse, 75014 Paris",
+   "lat": 48.842056,
+   "lng": 2.328835,
+   "radiusM": 30,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "仍在原址，如今是海鲜餐厅。帕辛那一晚就坐在这里的露台上。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.11 (With Pascin at the Dôme): 'I passed the collection of inmates at the Rotonde and, scorning vice and the collective instinct, crossed the boulevard to the Dôme.'"
+    },
+    {
+     "source": "Wikipedia — Le Dôme Café",
+     "url": "https://en.wikipedia.org/wiki/Le_D%C3%B4me_Caf%C3%A9",
+     "claim": "108 bd. du Montparnasse."
+    },
+    {
+     "source": "Ville de Paris — Balade sur les pas d'Ernest Hemingway",
+     "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+     "claim": "Le Dôme, boulevard du Montparnasse (14e), one of Hemingway's habitual cafés."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "108 Boulevard du Montparnasse → 48.842056, 2.328835"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "le-dome-1",
+     "title": "与帕辛和两姐妹",
+     "chapter": 11,
+     "chapterTitle": "与帕辛在穹顶咖啡馆",
+     "chineseMatch": {
+      "chapter": 11,
+      "paragraphIds": [
+       "11-11",
+       "11-12",
+       "11-13",
+       "11-14",
+       "11-15",
+       "11-16",
+       "11-17",
+       "11-18",
+       "11-19",
+       "11-20",
+       "11-21",
+       "11-22",
+       "11-23",
+       "11-24",
+       "11-25",
+       "11-26",
+       "11-27",
+       "11-28",
+       "11-29",
+       "11-30",
+       "11-31",
+       "11-32",
+       "11-33",
+       "11-34",
+       "11-35",
+       "11-36",
+       "11-37",
+       "11-38",
+       "11-39",
+       "11-40",
+       "11-41",
+       "11-42",
+       "11-43",
+       "11-44",
+       "11-45",
+       "11-46",
+       "11-47",
+       "11-48",
+       "11-49",
+       "11-50",
+       "11-51",
+       "11-52",
+       "11-53",
+       "11-54",
+       "11-55",
+       "11-56",
+       "11-57",
+       "11-58",
+       "11-59",
+       "11-60",
+       "11-61",
+       "11-62",
+       "11-63",
+       "11-64",
+       "11-65",
+       "11-66"
+      ]
+     },
+     "paragraphs": [
+      "我从菁英咖啡馆往回走，刚看见哈罗德·斯特恩在那里，我赶紧绕行：我知道他准要大谈赛马，我却正以轻松鄙夷的态度，将赛马当作我发誓要抛弃的畜牲。我自觉洋溢着美德，避开圆亭咖啡馆里各色人等，暗自哂笑他们的习气和聚会本能，穿过大街，到了穹顶咖啡馆。这里也拥挤，但这里有些正经工作过的人们。",
+      "穹顶咖啡馆有工作了一天的模特，有工作到白昼流尽的画家，有耗费气力刚结束一天工作的作家，有酒鬼，有名人，有些我认识，有些不过是绣花枕头。",
+      "我过到帕辛桌边坐下，跟他一起的还有一对模特姐妹。刚才我在德朗布尔路那边的人行道上站着，考虑是否进来待会儿喝杯酒时，帕辛就挥手招呼让我进来。帕辛是个极好的画家，这会儿他已经醉了，但他醉得沉稳有分寸，并未失去理智。那两个模特年轻美丽，一个肌肤黝黑，娇小窈窕，带点半遮半掩的放浪，另一个看着像个孩子，有点呆板，却有一种转瞬即逝的女孩子气的美丽。她没有她姐姐身材好，但那个春天，我没看见过谁有她姐姐身材好。",
+      "“这对姐妹，一个好，一个坏。”帕辛说，“我有钱。你要喝什么？”",
+      "“半瓶金啤酒。”我用法语对侍者说。",
+      "“喝杯威士忌吧。我有钱。”",
+      "“我喜欢啤酒。”",
+      "“如果你真喜欢啤酒，你应该在利普餐馆。我看你刚工作完吧。”",
+      "“对。”",
+      "“写得顺利？”",
+      "“希望是吧。”",
+      "“好。我高兴。这些尝着都行？”",
+      "“行。”",
+      "“你几岁啦？”",
+      "“25。”",
+      "“你想泡她吗？”他看向那个黑皮肤姐姐，笑了，“她很需要哟。”",
+      "“你今天泡她也泡够了吧。”",
+      "她朝我咧唇微笑，“他很坏，”她说，“但他人很好。”",
+      "“你可以带她去我的画室。”",
+      "“别惹人厌。”金发的妹妹说。",
+      "“谁跟你说话了？”帕辛问她。",
+      "“没人。但我说话了。”",
+      "“我们来舒服舒服。”帕辛说，“严肃认真的青年作家和友好明智的老画家，一对风华正茂的漂亮姑娘。”",
+      "我们坐着，少女们啜饮着饮料，帕辛又喝了一大杯掺水白兰地，我喝了啤酒。但除了帕辛，没人觉得舒服自在。黑皮肤姑娘根本静不下来，搔首弄姿：转脸让灯光落在她丰满的脸颊上，故意让我看她黑毛衣下高耸的胸脯。她的头发剪短了，乌黑油亮，像个东方姑娘。",
+      "“你摆了一天造型啦。”帕辛对她说，“你在咖啡馆里也要秀这件毛衣吗？”",
+      "“我高兴！”她说。",
+      "“你看着像个‘爪哇玩具’。”他说。",
+      "“眼睛可不像，”她说，“我的眼睛复杂多了。”",
+      "“你看着像个坏洋娃娃。”",
+      "“也许，”她说，“但是活的洋娃娃。这就比你强。”",
+      "“我们会知道的。”",
+      "“好。”她说，“我喜欢实打实的证据。”",
+      "“你今天没看见？”",
+      "“哦，那个呀！”她说着，转过脸去，将黄昏最后一道光线截在她脸上，“你那时只是为了你的作品兴奋。他在跟油画布谈恋爱呢。”她对我说，“总有些不干不净的玩意儿。”",
+      "“你要我画你，给你钱，泡你，来让我头脑清醒，然后也跟你谈恋爱。”帕辛说，“你这个可怜的小洋娃娃。”",
+      "“你喜欢我，不是么，先生？”她问我。",
+      "“很喜欢。”",
+      "“但你太粗壮了。”她悲哀地说。",
+      "“在床上都一样。”",
+      "“不对。”她妹妹说，“而且我厌倦这些对话了。”",
+      "“看！”帕辛说，“如果你觉得我在跟画布谈恋爱，我明天就用水彩画你。”",
+      "“我们什么时候吃饭？”她妹妹问，“还有，在哪里吃呢？”",
+      "“你跟我们一起吃饭吗？”黑姑娘问。",
+      "“不，我回去和我妻子一起吃。”这是那时的时髦词，现在都说“我老婆”。",
+      "“非回去不可？”",
+      "“非回去不可，我也想回去。”",
+      "“那就去！”帕辛说，“还有，别爱上打字机纸！”",
+      "“如果我爱上了打字机纸，我就用铅笔写稿。”",
+      "“明天用水彩画！”他说，“好啦，我的孩子们，我要再喝一杯，然后我们去随便你们喜欢的地方吃饭！”",
+      "“维京饭店。”黑皮肤姑娘说。",
+      "“我也想去。”她妹妹怂恿道。",
+      "“好啦！”帕辛同意了，“晚安，年轻人，睡安稳！”",
+      "“你也是。”",
+      "“她俩会让我醒着的。”他说，“我永远不会睡！”",
+      "“今晚睡一觉吧。”",
+      "“去维京饭店吃完睡？”他的帽子滑到脑后，咧嘴笑了。他看上去不像个可爱的画家，倒像是19世纪末的百老汇演员。之后，当他自缢身死，我还是喜欢回忆起他这一晚在穹顶咖啡馆的模样。人们说，每个人心底都有点种子决定他们要做什么，但对我而言，那些游戏人间之人内心的种子上，有着更得天独厚的土壤。"
+     ],
+     "chars": 1644,
+     "audio": "audio/le-dome-1.m4a",
+     "englishChapterTitle": "With Pascin at the Dome",
+     "englishAnchorStart": "Coming back from The Select now where I had sheered off at the sight",
+     "englishAnchorEnd": "\"After Chez Les Vikings?\" He grinned with his hat on",
+     "englishParagraphs": [
+      11,
+      66
+     ],
+     "zhEnRatio": 0.345,
+     "needsReview": false,
+     "chapterLabel": "第11章",
+     "context": "同一个傍晚，海明威继续沿蒙帕纳斯大道走到这里。画家帕辛带着两个给他当模特的姐妹坐在露台上，招呼他过去喝一杯。帕辛是这一带最出名的浪荡子；五年后他在画室里自杀，海明威在这一章的结尾想起了这件事。",
+     "people": [
+      "hemingway",
+      "pascin"
+     ],
+     "intro": "出自《流动的盛宴》第11章，《与帕辛在穹顶咖啡馆》。同一个傍晚，海明威继续沿蒙帕纳斯大道走到这里。画家帕辛带着两个给他当模特的姐妹坐在露台上，招呼他过去喝一杯。帕辛是这一带最出名的浪荡子；五年后他在画室里自杀，海明威在这一章的结尾想起了这件事。",
+     "introAudio": "audio/le-dome-1-intro.m4a",
+     "durationSec": 347,
+     "introDurationSec": 25
+    }
+   ],
+   "chapter": 11,
+   "chapterTitle": "与帕辛在穹顶咖啡馆",
+   "englishQuoteOrAnchor": "Coming back from The Select now where I had sheered off at the sight",
+   "autoplay": true
+  },
+  {
+   "id": "dingo-bar",
+   "nameZh": "“澳洲犬”酒吧",
+   "canonicalName": "Dingo Bar",
+   "historicalName": "Dingo American Bar and Restaurant",
+   "modernName": "Auberge de Venise",
+   "historicalAddress": "10 rue Delambre, Paris 14e",
+   "modernAddress": "10 rue Delambre, 75014 Paris",
+   "lat": 48.841812,
+   "lng": 2.328443,
+   "radiusM": 25,
+   "status": "renamed",
+   "confidence": "HIGH",
+   "note": "1925 年春天海明威在这里第一次见到菲茨杰拉德。现在是意大利餐馆 Auberge de Venise，据说老吧台还在。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.17: 'He had come into the Dingo bar in the rue Delambre where I was sitting with some completely worthless characters…'"
+    },
+    {
+     "source": "Wikipedia — Dingo Bar",
+     "url": "https://en.wikipedia.org/wiki/Dingo_Bar",
+     "claim": "The Dingo American Bar and Restaurant at 10 rue Delambre opened in 1923; Hemingway first met Fitzgerald there in late April 1925; the premises are now the Auberge de Venise."
+    },
+    {
+     "source": "PBS — Michael Palin's Hemingway Adventure, Paris walk 3",
+     "url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+     "claim": "Dingo Bar, rue Delambre — now called Auberge de Venise."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "10 Rue Delambre → 48.841812, 2.328443"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "dingo-bar-1",
+     "title": "初见斯科特·菲茨杰拉德",
+     "chapter": 17,
+     "chapterTitle": "斯科特·菲茨杰拉德",
+     "chineseMatch": {
+      "chapter": 17,
+      "paragraphIds": [
+       "17-2",
+       "17-3",
+       "17-4",
+       "17-5",
+       "17-6",
+       "17-7",
+       "17-8",
+       "17-9",
+       "17-10",
+       "17-11",
+       "17-12",
+       "17-13",
+       "17-14",
+       "17-15",
+       "17-16",
+       "17-17",
+       "17-18",
+       "17-19",
+       "17-20",
+       "17-21",
+       "17-22",
+       "17-23",
+       "17-24",
+       "17-25",
+       "17-26",
+       "17-27",
+       "17-28"
+      ]
+     },
+     "paragraphs": [
+      "我第一次见斯科特·菲茨杰拉德时，发生了一件怪事。斯科特身上发生过许多怪事，但这件我永难忘怀。我正与几个不值一提的人坐在德朗布尔路的“澳洲犬”酒吧里，他走进来，自我介绍，又介绍了跟他同来的一位高挑亲切的男子：那是著名棒球投手邓克·查普林。我不关注普林斯顿大学的棒球，从没听过查普林，但他看去惊人的和蔼可亲、无忧无虑、从容自在又友好，我喜欢他还远喜欢过斯科特呢。",
+      "斯科特那时是个大男人，但长得像个少年，一张脸介于俊秀与好看之间。他金鬈发，高额头，眼睛兴奋又友善，一张爱尔兰人的嘴，嘴唇细长娇嫩，如果长在姑娘脸上就相当漂亮了。他的下巴结实，双耳周正，一个不算凸出但帅气到近乎美丽的鼻子。仅是耳鼻自然构不成一张英俊的脸，但他的脸色、金发与嘴唇就够了。那张嘴让你难以捉摸；等你熟悉他，就更难以捉摸了。",
+      "我见到他时很好奇，那天之前我写作终日，所以能跟斯科特·菲茨杰拉德与了不起的邓克·查普林做伴，还挺好的——之前我没听说邓克，但他立刻就成了我朋友。斯科特一直说个不停，我则不好意思：他滔滔不绝地夸奖我的写作了不起。我继续凑近盯着他看，注意他的动作，不去听他说话。那时我们私下里有个原则：当面夸奖是公然让对手下不了台。斯科特点了香槟，我、他与邓克，以及我觉得不值一提的那几个人一起喝。我觉得邓克和我都没认真听斯科特的演讲，没错，他简直是在演讲，我就注意观察斯科特。他身材清瘦，脸上略有浮肿，看去状态并不太好。他穿着挺合身的布鲁克斯兄弟牌的外套，里面是一件按扣领的白衬衣，打着禁卫军领带。我觉得自己该告诉他这领带不大妥当，巴黎有英国人，可能到“澳洲犬”酒吧来——当时就有两个——回头一想，管他呢，我又接着看了他一会儿。后来才知道这领带是在罗马买的。",
+      "我盯着他看，却没琢磨出什么，只发现他有一双形状好看、颇合观瞻的手，不太小。他在一张吧台凳上坐下时，我发现他腿挺短。如果腿有正常比例，他该比现在还高两英寸。我们喝完第一瓶香槟，开始喝第二瓶，他的演讲也将近尾声了。",
+      "邓克与我都感觉好了起来，甚至比喝香槟前都好，因为演讲终于要结束了。直到那会儿，我一直以为只有我、我妻子和几个密友，才私下里认为我是个伟大作家。现在斯科特得出同样的结论，我很高兴，但更高兴的是：他的演讲要结束了。不料演讲之后，提问又来了。他演讲时，你大可不听，只顾观察；但提问可躲不开。我之后才发现，斯科特相信，小说家可以通过直接提问他的朋友与熟人来找到他需要的素材。他的诘问煞是直接。",
+      "“厄尼斯特，”他说，“你不介意我叫你厄尼斯特，对吧？”",
+      "“问邓克吧。”我说。",
+      "“别傻了。我很严肃呢。告诉我，你和你妻子婚前睡过吗？”",
+      "“我不知道。”",
+      "“你什么意思呀？你不知道？”",
+      "“我不记得了。”",
+      "“可是，你怎么记不得这么重要的事呢？”",
+      "“我不知道。”我说，“很奇怪对吧？”",
+      "“这比奇怪还糟。”斯科特说，“你必须得记得。”",
+      "“抱歉啊。不记得有点遗憾对吧？”",
+      "“别学英国佬说话。”他说，“尽量严肃点，记起来。”",
+      "“不。”我说，“没指望了，记不起来。”",
+      "“你得认真地回忆一下了。”",
+      "这说话架子摆得好大。我想。我好奇他是不是对谁都这么说话，但想想也不至于，因为先前我看见他演讲时都出汗了。一滴一滴汗水从他优美细长的嘴唇上沁出，我就在这时候将视线从他脸上移开向下，去目测他坐在吧台凳上架起的双腿有多长。此时我又将视线挪回他脸上，恰在此时，怪事发生。",
+      "他就坐在吧台那里，手握香槟杯，脸上肌肤看来绷紧了，忽然浮肿消失，肌肤更紧了，紧到他的脸看去仿佛死尸。他的双目深陷，仿佛呆滞了，嘴唇紧闭，脸色如蜡。这不是我的想象。他的脸就在我眼前变成了一个死人，或者说，死神面具。",
+      "“斯科特，”我说，“你还好吧？”",
+      "他没回答，他的脸看去更阴森了。",
+      "“我们最好带他去看个急诊。”我对邓克·查普林说。",
+      "“不用。他没事。”",
+      "“他看起来要死了。”",
+      "“不，他发作时就这样。”",
+      "我们把他扶进一辆出租车，我很忧心，邓克则说他没事，别担心。“他到家时估计就好了。”他说。"
+     ],
+     "chars": 1604,
+     "audio": "audio/dingo-bar-1.m4a",
+     "englishChapterTitle": "Scott Fitzgerald",
+     "englishAnchorStart": "The first time I ever met Scott Fitzgerald a very strange thing happened. Many",
+     "englishAnchorEnd": "We got him into a taxi and I was very",
+     "englishParagraphs": [
+      2,
+      28
+     ],
+     "zhEnRatio": 0.3,
+     "needsReview": false,
+     "chapterLabel": "第17章",
+     "context": "1925 年 4 月底，《了不起的盖茨比》出版才两个星期。还没什么名气的海明威正在这家酒吧喝酒，已经成名的菲茨杰拉德带着大学同学邓克·查普林走进来，作了自我介绍。这是美国文学史上最有名的一次初见，过程却相当尴尬。",
+     "people": [
+      "hemingway",
+      "fitzgerald",
+      "chaplin"
+     ],
+     "intro": "出自《流动的盛宴》第17章，《斯科特·菲茨杰拉德》。1925 年 4 月底，《了不起的盖茨比》出版才两个星期。还没什么名气的海明威正在这家酒吧喝酒，已经成名的菲茨杰拉德带着大学同学邓克·查普林走进来，作了自我介绍。这是美国文学史上最有名的一次初见，过程却相当尴尬。",
+     "introAudio": "audio/dingo-bar-1-intro.m4a",
+     "durationSec": 344,
+     "introDurationSec": 26
+    }
+   ],
+   "chapter": 17,
+   "chapterTitle": "斯科特·菲茨杰拉德",
+   "englishQuoteOrAnchor": "The first time I ever met Scott Fitzgerald a very strange thing happened. Many",
+   "autoplay": true
+  },
+  {
+   "id": "14-rue-de-tilsitt",
+   "nameZh": "菲茨杰拉德的公寓（提尔西特路14号）",
+   "canonicalName": "14 rue de Tilsitt",
+   "historicalName": "The Fitzgeralds' furnished flat",
+   "modernName": "14 rue de Tilsitt",
+   "historicalAddress": "14 rue de Tilsitt, Paris 8e",
+   "modernAddress": "14 rue de Tilsitt, 75008 Paris",
+   "lat": 48.87505,
+   "lng": 2.296383,
+   "radiusM": 35,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "右岸，凯旋门旁。原文直接给了门牌。离左岸各点较远，需要单独去一趟。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.18: 'Scott Fitzgerald invited us to have lunch with his wife Zelda and his little daughter at the furnished flat they had rented at 14 rue Tilsitt.'"
+    },
+    {
+     "source": "Wikipédia (fr) — Rue de Tilsitt",
+     "url": "https://fr.wikipedia.org/wiki/Rue_de_Tilsitt",
+     "claim": "No 14 : appartement meublé loué par Zelda et Francis Scott Fitzgerald."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "14 Rue de Tilsitt → 48.87505, 2.296383"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "14-rue-de-tilsitt-1",
+     "title": "泽尔达的午餐",
+     "chapter": 18,
+     "chapterTitle": "鹰不分享",
+     "chineseMatch": {
+      "chapter": 18,
+      "paragraphIds": [
+       "18-1",
+       "18-2",
+       "18-3",
+       "18-4",
+       "18-5",
+       "18-6",
+       "18-7",
+       "18-8"
+      ]
+     },
+     "paragraphs": [
+      "斯科特·菲茨杰拉德邀请我们与他妻子泽尔达以及小女儿共享午餐：去他那个租在提尔西特路14号带家具的公寓里。我对那公寓的细节，只记得又暗又闷，似乎除了斯科特那几本天蓝色封面、烫金书名的处女作外，别的都不是他的东西。斯科特还给我们看一本挺大的账簿，里头按年份列着他业已发表的作品，以及所得稿费，包括改编成电影的酬金和版税收入。记得仔仔细细，简直像航海日记。斯科特给我们看时，多少带些不动声色的自豪感，像个博物馆馆长。他神情紧张，但很好客，将他的账单当风景似的跟我们炫耀。但他那里并无什么值得一看的。",
+      "泽尔达宿醉未醒。他们前一夜去了蒙马特高地，还吵了架：因为斯科特不想喝醉酒。他告诉我，他已决定努力工作不饮酒，泽尔达却觉得他像在扫兴煞风景。她就是这么说他的，但他一提起，泽尔达便说：“我没说，我没做这种事，不对，斯科特。”之后她似乎想起了什么，笑得欢天喜地。",
+      "这一天泽尔达看来不在状态。他俩被大雨所困，将车留在里昂那次，一次糟糕的烫发暂时损毁了她的美丽金发，她的双眼疲倦，脸也拉长绷紧了。",
+      "她对我与哈德莉热情招待，但看去神不守舍，还想着早晨刚离开的那次派对。她与斯科特看来都觉得，我们在里昂的那段旅途美妙至极，她还挺嫉妒呢。",
+      "“你俩可以出去，享受这样简单有趣的时光，那么我自己也在巴黎跟好朋友找点乐子，才公平嘛。”她对斯科特说。",
+      "斯科特做主人殷勤周到无可挑剔，但我们吃了顿糟糕的午饭；葡萄酒助了兴，但也没那么有用。他家的小姑娘是个金发圆脸身材结实的女孩，看着很健康，英语带着浓郁的伦敦腔。斯科特解释说，他想给女儿找个英国保姆，这样她长大后，说话就像戴安娜·曼娜斯夫人了。",
+      "泽尔达双眼如鹰，薄嘴唇，浓重的南方做派外带南方口音。看她的脸，你会发现她神游回到前一晚的派对，一会儿又回来；双眼放空仿佛一只猫，然后又高兴起来；她的愉悦会随着嘴唇的细线展现，随即消失。斯科特是个热情好客的主人，泽尔达看着他喝酒，眼睛与嘴角都笑意荡漾。我完全理解她的微笑。那意味着她知道，斯科特无法写作了。",
+      "泽尔达嫉妒斯科特的写作，以及，我们熟悉之后，这种嫉妒成了家常便饭。斯科特会下狠心不再夜夜笙歌，每天锻炼锻炼，规律地写作。他如此开工，一等他写作顺利，泽尔达便开始抱怨她多无聊，拉着斯科特又去找个醉酒派对。他们会吵架，随即和好，然后斯科特跟我一起散步，把酒精都当汗出掉，再次决定这回一定要好好工作，然后再次开工顺利，然后一切周而复始。"
+     ],
+     "chars": 993,
+     "audio": "audio/14-rue-de-tilsitt-1.m4a",
+     "englishChapterTitle": "Hawks Do Not Share",
+     "englishAnchorStart": "Scott Fitzgerald invited us to have lunch with his wife Zelda and his little",
+     "englishAnchorEnd": "Zelda was jealous of Scott's work and as we got",
+     "englishParagraphs": [
+      1,
+      8
+     ],
+     "zhEnRatio": 0.278,
+     "needsReview": false,
+     "chapterLabel": "第18章",
+     "context": "1925 年，海明威和菲茨杰拉德刚一起去里昂取回了车，那趟旅行一路都是麻烦。回来后，菲茨杰拉德请海明威夫妇到他租的公寓，同妻子泽尔达和小女儿一起吃午饭。",
+     "people": [
+      "hemingway",
+      "hadley",
+      "fitzgerald",
+      "zelda"
+     ],
+     "intro": "出自《流动的盛宴》第18章，《鹰不分享》。1925 年，海明威和菲茨杰拉德刚一起去里昂取回了车，那趟旅行一路都是麻烦。回来后，菲茨杰拉德请海明威夫妇到他租的公寓，同妻子泽尔达和小女儿一起吃午饭。",
+     "introAudio": "audio/14-rue-de-tilsitt-1-intro.m4a",
+     "durationSec": 207,
+     "introDurationSec": 20
+    }
+   ],
+   "chapter": 18,
+   "chapterTitle": "鹰不分享",
+   "englishQuoteOrAnchor": "Scott Fitzgerald invited us to have lunch with his wife Zelda and his little",
+   "autoplay": true
+  },
+  {
+   "id": "ritz-bar",
+   "nameZh": "里兹酒吧",
+   "canonicalName": "The Ritz bar",
+   "historicalName": "Bar of the Hôtel Ritz",
+   "modernName": "Hôtel Ritz Paris (Bar Hemingway, rue Cambon side)",
+   "historicalAddress": "Hôtel Ritz, 15 place Vendôme, Paris 1er",
+   "modernAddress": "15 place Vendôme, 75001 Paris",
+   "lat": 48.867951,
+   "lng": 2.328898,
+   "radiusM": 60,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "酒店正门在旺多姆广场，酒吧历来在康邦街一侧。坐标取酒店本身，半径放大以覆盖两侧入口。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.19: 'Many years later at the Ritz bar, long after the end of the World War II, Georges, who is the bar chief now and who was the chasseur when Scott lived in Paris, asked me…'"
+    },
+    {
+     "source": "Wikipedia — Hôtel Ritz Paris",
+     "url": "https://en.wikipedia.org/wiki/H%C3%B4tel_Ritz_Paris",
+     "claim": "15 Place Vendôme; the Bar Hemingway pays tribute to the writer."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "15 Place Vendôme → 48.867951, 2.328898"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "ritz-bar-1",
+     "title": "乔治问：菲茨杰拉德先生是谁？",
+     "chapter": 19,
+     "chapterTitle": "尺寸问题",
+     "chineseMatch": {
+      "chapter": 19,
+      "paragraphIds": [
+       "19-32",
+       "19-33",
+       "19-34",
+       "19-35",
+       "19-36",
+       "19-37",
+       "19-38",
+       "19-39",
+       "19-40",
+       "19-41",
+       "19-42",
+       "19-43",
+       "19-44",
+       "19-45",
+       "19-46",
+       "19-47",
+       "19-48",
+       "19-49",
+       "19-50",
+       "19-51",
+       "19-52",
+       "19-53",
+       "19-54",
+       "19-55",
+       "19-56",
+       "19-57",
+       "19-58",
+       "19-59",
+       "19-60",
+       "19-61",
+       "19-62",
+       "19-63",
+       "19-64",
+       "19-65",
+       "19-66",
+       "19-67"
+      ]
+     },
+     "paragraphs": [
+      "许多年后，是二战结束后许多年了，在里兹酒吧，先前斯科特住在巴黎时的酒吧跑堂，如今的酒吧总管乔治，问起我来：“先生，每个人都跟我问起的这位菲茨杰拉德先生，是个谁啊？”",
+      "“你不认识他吗？”",
+      "“不，我记得那会儿所有人，但他们现在只问起他。”",
+      "“你跟他们说了什么呢？”",
+      "“他们想听的趣事呗，他们听了会高兴的事儿呗。但告诉我，他是谁？”",
+      "“他是20世纪20年代早期一位美国作家，在巴黎和外国住过些时候。”",
+      "“但我为什么不记得他呢？他是个好作家吗？”",
+      "“他写了两本非常好的书，还有一本没完成，他们说如果写完的话，会是他最好的作品。他也写了许多好短篇故事。”",
+      "“他来酒吧多吗？”",
+      "“我相信是的。”",
+      "“但20世纪20年代早期你来酒吧不多。我知道你那时穷，住在另一个街区。”",
+      "“那会儿我有钱时，会去克里翁。”",
+      "“我也知道。我记得我们第一次见面的时候。”",
+      "“我也记得。”",
+      "“真奇怪，我对他一点记忆都没有了。”乔治说。",
+      "“那些人都过世了。”",
+      "“但是，人死了不一定就被遗忘了。老有人跟我打听他。您得跟我讲他一些事，我好写进回忆录。”",
+      "“我会的。”",
+      "“我记得你和布里克森男爵有一天来这里，哪年来着？”他微笑道。",
+      "“他也过世了。”",
+      "“是啊。但我没忘记他。你明白我的意思了？”",
+      "“他第一个妻子写作极好。”我说，“她写了一本书，可能是我读过最好的关于非洲题材的书，只有萨缪尔·贝克爵士写的阿比西尼亚境内各条尼罗河支流那本书例外。既然你对作家们有兴趣，把这个放进你的回忆录吧。”",
+      "“好的。”乔治说，“男爵不是那种你能忘掉的人。那本书的名字叫？”",
+      "“《走出非洲》。”我说，“布里克总是为他第一个妻子的写作感到自豪呢。但我们认识，远在他妻子写这本书之前。”",
+      "“但那位，他们一直跟我问到的菲茨杰拉德先生呢？”",
+      "“他是弗兰克当总管时的常客。”",
+      "“是的，而我那时是跑堂。你知道跑堂是什么的。”",
+      "“我会在一本写我巴黎早期生活的书里写到他。我答应过我自己，我会写的。”",
+      "“好的。”乔治说。",
+      "“我会依照初见他时的印象写出来。”",
+      "“好的。”乔治说，“那么，如果他之前来过这里，我会记得他。毕竟，人不会轻易遗忘的。”",
+      "“旅客？”",
+      "“旅客自然会被遗忘。但你说过他常来这里？”",
+      "“这里对他而言意义非凡。”",
+      "“就按你对他的印象去写吧。如果他真来过这里，我会想起他的。”",
+      "“我们看吧。”我说。"
+     ],
+     "chars": 930,
+     "audio": "audio/ritz-bar-1.m4a",
+     "englishChapterTitle": "A Matter of Measurements",
+     "englishAnchorStart": "Many years later at the Ritz bar, long after the end of the World",
+     "englishAnchorEnd": "\"We will see,\" I said.",
+     "englishParagraphs": [
+      32,
+      67
+     ],
+     "zhEnRatio": 0.353,
+     "needsReview": false,
+     "chapterLabel": "第19章",
+     "context": "时间一下子跳到二战之后的五十年代。菲茨杰拉德早已去世，海明威成了世界闻名的老作家。酒保领班乔治当年只是这里的小听差，他问海明威：大家都在打听的那位菲茨杰拉德先生，到底是谁？",
+     "people": [
+      "hemingway",
+      "georges",
+      "fitzgerald"
+     ],
+     "intro": "出自《流动的盛宴》第19章，《尺寸问题》。时间一下子跳到二战之后的五十年代。菲茨杰拉德早已去世，海明威成了世界闻名的老作家。酒保领班乔治当年只是这里的小听差，他问海明威：大家都在打听的那位菲茨杰拉德先生，到底是谁？",
+     "introAudio": "audio/ritz-bar-1-intro.m4a",
+     "durationSec": 192,
+     "introDurationSec": 22
+    }
+   ],
+   "chapter": 19,
+   "chapterTitle": "尺寸问题",
+   "englishQuoteOrAnchor": "Many years later at the Ritz bar, long after the end of the World",
+   "autoplay": true
+  },
+  {
+   "id": "auteuil",
+   "nameZh": "奥特伊赛马场",
+   "canonicalName": "Hippodrome d'Auteuil",
+   "historicalName": "Auteuil steeplechase course",
+   "modernName": "Hippodrome d'Auteuil",
+   "historicalAddress": "Bois de Boulogne, Paris 16e",
+   "modernAddress": "Route des Lacs à Passy, 75016 Paris",
+   "lat": 48.853371,
+   "lng": 2.257,
+   "radiusM": 350,
+   "status": "extant",
+   "confidence": "HIGH",
+   "note": "在布洛涅森林南端，离其他地点很远。赛马场很大，所以触发半径也大。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.7: 'I worked two tracks in their season when I could, Auteuil and Enghien … You had to watch a jumping race from the top of the stands at Auteuil…'"
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "Hippodrome d'Auteuil → 48.853371, 2.257"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "auteuil-1",
+     "title": "在看台顶上看越栏赛",
+     "chapter": 7,
+     "chapterTitle": "一项嗜好告终",
+     "chineseMatch": {
+      "chapter": 7,
+      "paragraphIds": [
+       "7-3",
+       "7-4",
+       "7-5",
+       "7-6"
+      ]
+     },
+     "paragraphs": [
+      "那时我看赛马次数多了，对赛马也沉溺渐深。在赛马季，但凡有机会，我就在奥特伊和昂甘两头下注。若想巧妙地斟酌得失，真得全职投身于此，我这种赌法也赚不到钱。理论上便是如此。所以买一份报纸看，也就可以了。",
+      "在奥特伊，你得在看台顶端才看得到一场越栏赛，还得爬快一点，才能看清每匹马的动作和输赢，看清那些马为何没尽己所能。你下注的每匹马要起跑时，就得关注赌价和赔率的起伏，得知道那匹马跑得如何，了解驯马师何时试赛。试赛时可能它会屡次败北，但如此你便会知道它获胜的几率了。",
+      "这么做的确累人，但能每天亲临奥特伊赛马场，看骏马展开公正的比赛，感觉真是美好。你会渐次对跑马场有所了解，甚至熟悉过你认识的其他地方。最后你还能了解许多：骑师、驯马师、马主、马匹以及它们的各色事务。",
+      "原则上我只在有合适的马时下注，但我有时会发现一匹除了训练师外无人关注的冷门马，我下注，赢钱。我最后还是终止了赌马，因为这太耗时间。我太沉溺其中，我对昂甘和无障碍赛马场的事情了解太多了。"
+     ],
+     "chars": 418,
+     "audio": "audio/auteuil-1.m4a",
+     "englishChapterTitle": "The End of an Avocation",
+     "englishAnchorStart": "I was going to races alone more now and I was involved in them",
+     "englishAnchorEnd": "In principle I only bet when I had a horse",
+     "englishParagraphs": [
+      3,
+      5
+     ],
+     "zhEnRatio": 0.268,
+     "needsReview": false,
+     "chapterLabel": "第7章",
+     "context": "海明威和哈德莉起初只是偶尔赌赌赛马，后来他一个人越陷越深，把研究马和赛道当成了一份全职工作。奥特伊是障碍赛的赛场。不久之后他就下决心戒掉了。",
+     "people": [
+      "hemingway"
+     ],
+     "intro": "出自《流动的盛宴》第7章，《一项嗜好告终》。海明威和哈德莉起初只是偶尔赌赌赛马，后来他一个人越陷越深，把研究马和赛道当成了一份全职工作。奥特伊是障碍赛的赛场。不久之后他就下决心戒掉了。",
+     "introAudio": "audio/auteuil-1-intro.m4a",
+     "durationSec": 91,
+     "introDurationSec": 19
+    }
+   ],
+   "chapter": 7,
+   "chapterTitle": "一项嗜好告终",
+   "englishQuoteOrAnchor": "I was going to races alone more now and I was involved in them",
+   "autoplay": true
+  },
+  {
+   "id": "vel-dhiv",
+   "nameZh": "冬季赛车场旧址",
+   "canonicalName": "Vélodrome d'Hiver",
+   "historicalName": "Vélodrome d'Hiver",
+   "modernName": "Site at boulevard de Grenelle / rue Nélaton (memorial)",
+   "historicalAddress": "Corner of boulevard de Grenelle and rue Nélaton, Paris 15e",
+   "modernAddress": "8 boulevard de Grenelle, 75015 Paris",
+   "lat": 48.853515,
+   "lng": 2.289395,
+   "radiusM": 70,
+   "status": "demolished",
+   "confidence": "MEDIUM",
+   "note": "赛场 1959 年拆除，原址有 1942 年大搜捕的纪念地。这一段文字同时提到好几个赛场（冬季赛车场、“水牛”体育场、王子公园），所以它与此地的对应不是一对一的，标为 MEDIUM。",
+   "evidence": [
+    {
+     "source": "A Moveable Feast (Scribner, 1964) — Faded Page / Distributed Proofreaders Canada",
+     "url": "https://www.fadedpage.com/showbook.php?pid=20141111",
+     "claim": "Ch.7: 'the Vélodrome d'Hiver with the smoky light of the afternoon and the high-banked wooden track and the whirring sound the tires made on the wood as the riders passed…'"
+    },
+    {
+     "source": "Wikipedia — Vélodrome d'Hiver",
+     "url": "https://en.wikipedia.org/wiki/V%C3%A9lodrome_d%27Hiver",
+     "claim": "Indoor cycle track at the corner of boulevard de Grenelle and rue Nélaton; Hemingway was a regular at its six-day races."
+    },
+    {
+     "source": "OpenStreetMap / Nominatim (coordinates)",
+     "url": "https://nominatim.openstreetmap.org/",
+     "claim": "8 Boulevard de Grenelle → 48.853515, 2.289395"
+    }
+   ],
+   "scenes": [
+    {
+     "id": "vel-dhiv-1",
+     "title": "自行车赛",
+     "chapter": 7,
+     "chapterTitle": "一项嗜好告终",
+     "chineseMatch": {
+      "chapter": 7,
+      "paragraphIds": [
+       "7-35",
+       "7-36"
+      ]
+     },
+     "paragraphs": [
+      "然而很长一段时间里，我要做的只是回到我们在巴黎的小天地里，躲开赛马场，将精力投在生活与工作上，投在你认识的画家们身上，而不要去赌博，或干其他赌博性质的勾当。我试写了许多有关自行车赛的小说，但从未写完过哪篇足以再现室内赛、室外赛与越野赛如何激动人心。不过，我将来会写到冬季赛车场午后雾蒙蒙的光影，写到倾斜的木制赛道和车轮驶过其上时压出的嘎嘎声，写到选手们上蹬下冲的技巧与努力，写到他们仿佛与赛车融为一体。我会写到八百至三千米赛车的魔力，写到摩托车的轰鸣，写出驾着拖斗跟随在车队后的教练们，头戴厚防护罩，身披笨重的皮夹克，身体后仰，为身后的自行车挡住迎面的气流；自行车选手们则头戴轻型防护罩，俯在车把上，双腿蹬踏扣链齿轮，小前轮几乎要擦到为他们挡住气流的摩托车拖斗；我要写到最激动人心的对决，摩托车的噗噗声，骑手们肘对肘轮对轮，全速上下，环绕奔驰，直到有人无法保持速度，掉队，被气流墙迎面撞到。",
+      "自行车赛的种类如此之多。直线短程赛分预赛与决赛。决赛中，两名选手往往在车上平衡数秒，以争取让对方率先出发，然后绕慢圈跟随，直到最后冲刺时竭力尽速。其他项目里包括两小时行程的团体赛，下午则被各项短程预赛填满，还有那极其孤独的单人一小时计时赛，以及危险至极却又好看的一百公里赛。这种比赛常在蒙鲁日大型露天“水牛”体育场举行，自行车紧随大型摩托车，在木制五百米碗形倾斜赛道上飞驰。比赛中，伟大的比利时冠军选手林纳特——侧面看去像是个苏族印第安人，因此得了绰号叫“苏族人”——接近终点，疯狂加速时，便低头从赛车服的一根吸管里，吸一口热水瓶保温的白兰地。我还要写法国锦标赛，自行车紧随摩托车，在奥特伊王子公园里660米长的水泥赛道上飞奔，那是最要命的一条赛道：我们目睹了名选手加纳在那里倒地，他的头骨在防护罩里碎裂之声，仿佛野餐时在石头上敲碎一只煮鸡蛋。我一定要描写六天赛车的神奇景象，在山区公路赛车的华丽场面。直到今日，法语依然是自行车比赛的官方语言，通用的术语也都是法语词汇，因此我们写来很是艰难。迈克说得对，没必要下注。不过，看赛车是巴黎生活里另一段日子的事了。"
+     ],
+     "chars": 874,
+     "audio": "audio/vel-dhiv-1.m4a",
+     "englishChapterTitle": "The End of an Avocation",
+     "englishAnchorStart": "But for a long time it was enough just to be back in our",
+     "englishAnchorEnd": "There were so many kinds of racing. The straight sprints",
+     "englishParagraphs": [
+      34,
+      35
+     ],
+     "zhEnRatio": 0.28,
+     "needsReview": false,
+     "chapterLabel": "第7章",
+     "context": "戒掉赌赛马以后，朋友迈克·沃德带海明威去看自行车赛。场地赛、公路赛、六日赛，他一下子迷上了，却承认自己始终没能把它写好。文中的“冬季赛车场”就在这里，1959 年已经拆除。",
+     "people": [
+      "hemingway",
+      "mike"
+     ],
+     "intro": "出自《流动的盛宴》第7章，《一项嗜好告终》。戒掉赌赛马以后，朋友迈克·沃德带海明威去看自行车赛。场地赛、公路赛、六日赛，他一下子迷上了，却承认自己始终没能把它写好。文中的“冬季赛车场”就在这里，1959 年已经拆除。",
+     "introAudio": "audio/vel-dhiv-1-intro.m4a",
+     "durationSec": 178,
+     "introDurationSec": 22
+    }
+   ],
+   "chapter": 7,
+   "chapterTitle": "一项嗜好告终",
+   "englishQuoteOrAnchor": "But for a long time it was enough just to be back in our",
+   "autoplay": true
+  }
+ ],
+ "voice": "zh-CN-YunxiNeural"
+}
